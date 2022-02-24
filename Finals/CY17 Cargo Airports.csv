@@ -1,0 +1,141 @@
+Rank,Region Operation,ADO,State,Locid,Airport Name,City,Svc Lvl,Hub,"2017 Landed
+Weight (lbs.)","2016 Landed
+Weight (lbs.)",% Change
+1,Southern,MEM,Tennessee,MEM,Memphis International,Memphis,P,S,"23,949,525,780","23,866,469,898",0.35%
+2,Alaskan,AAL,Alaska,ANC,Ted Stevens Anchorage International,Anchorage,P,M,"17,337,337,377","16,867,292,945",2.79%
+3,Southern,MEM,Kentucky,SDF,Louisville International-Standiford Field,Louisville,P,S,"13,403,682,652","12,804,148,855",4.68%
+4,Great Lakes,CHI,Illinois,ORD,Chicago O'Hare International,Chicago,P,L,"10,373,559,593","9,358,755,022",10.84%
+5,Southern,ORL,Florida,MIA,Miami International,Miami,P,L,"7,963,988,407","7,899,307,235",0.82%
+6,Western Pacific,LAX,California,LAX,Los Angeles International,Los Angeles,P,L,"7,197,930,264","6,931,158,178",3.85%
+7,Southern,MEM,Kentucky,CVG,Cincinnati/Northern Kentucky International,Greater Cincinnati International Airport,P,M,"5,700,282,994","4,275,662,532",33.32%
+8,Great Lakes,CHI,Indiana,IND,Indianapolis International,Indianapolis,P,M,"5,138,500,501","5,329,187,330",-3.58%
+9,Southwest,TEX,Texas,DFW,Dallas-Fort Worth International,Fort Worth,P,L,"4,155,362,297","3,859,940,737",7.65%
+10,Western Pacific,LAX,California,ONT,Ontario International,Ontario,P,M,"3,522,510,318","3,041,697,142",15.81%
+11,Western Pacific,SFO,California,OAK,Metropolitan Oakland International,Oakland,P,M,"3,272,195,070","3,152,106,329",3.81%
+12,Eastern,NYC,New Jersey,EWR,Newark Liberty International,Newark,P,L,"2,990,957,430","2,803,385,720",6.69%
+13,Eastern,NYC,New York,JFK,John F Kennedy International,New York,P,L,"2,937,988,820","3,197,249,060",-8.11%
+14,Southern,ATL,Georgia,ATL,Hartsfield - Jackson Atlanta International,Atlanta,P,L,"2,781,647,652","2,610,022,106",6.58%
+15,Western Pacific,HNL,Hawaii,HNL,Daniel K Inouye International,Honolulu,P,L,"2,487,185,900","2,456,197,000",1.26%
+16,Northwest Mountain,SEA,Washington,SEA,Seattle-Tacoma International,Seattle,P,L,"2,315,645,598","1,878,916,576",23.24%
+17,Eastern,HAR,Pennsylvania,PHL,Philadelphia International,Philadelphia,P,L,"2,017,190,422","2,027,769,604",-0.52%
+18,Western Pacific,PHX,Arizona,PHX,Phoenix Sky Harbor International,Phoenix,P,L,"1,757,368,004","1,703,829,283",3.14%
+19,Southwest,TEX,Texas,IAH,George Bush Intercontinental/Houston,Houston,P,L,"1,755,069,631","1,636,306,553",7.26%
+20,Northwest Mountain,SEA,Oregon,PDX,Portland International,Portland,P,L,"1,471,945,867","1,271,073,678",15.80%
+21,Northwest Mountain,DEN,Colorado,DEN,Denver International,Denver,P,L,"1,391,967,269","1,425,420,956",-2.35%
+22,Great Lakes,CHI,Illinois,RFD,Chicago/Rockford International,Rockford,P,N,"1,381,654,780","922,955,400",49.70%
+23,Western Pacific,SFO,California,SFO,San Francisco International,San Francisco International Airport,P,L,"1,254,393,000","1,300,957,350",-3.58%
+24,Southern,ATL,Puerto Rico,SJU,Luis Munoz Marin International,San Juan,P,M,"1,208,323,492","1,084,961,328",11.37%
+25,Northwest Mountain,DEN,Utah,SLC,Salt Lake City International,Salt Lake City,P,L,"1,123,668,279","1,083,725,861",3.69%
+26,Great Lakes,DET,Ohio,LCK,Rickenbacker International,Columbus,P,N,"1,085,726,304","983,247,285",10.42%
+27,Great Lakes,DMA,Minnesota,MSP,Minneapolis-St Paul International/Wold-Chamberlain,Minneapolis,P,L,"1,030,776,385","1,002,366,375",2.83%
+28,New England,ANE,Massachusetts,BOS,General Edward Lawrence Logan International,Boston,P,L,"996,320,950","980,954,950",1.57%
+29,Southern,ORL,Florida,MCO,Orlando International,Orlando,P,L,"991,178,133","974,669,950",1.69%
+30,Eastern,WAS,Maryland,BWI,Baltimore/Washington International Thurgood Marshall,Glen Burnie,P,L,"943,878,461","536,859,376",75.81%
+31,Southwest,TEX,Texas,AFW,Fort Worth Alliance,Fort Worth,R,-,"904,874,371","897,408,852",0.83%
+32,Southern,ORL,Florida,TPA,Tampa International,Tampa,P,L,"853,209,824","587,135,982",45.32%
+33,Southwest,TEX,Texas,SAT,San Antonio International,San Antonio,P,M,"844,767,966","791,990,700",6.66%
+34,New England,ANE,Connecticut,BDL,Bradley International,Windsor Locks,P,M,"817,966,700","831,343,300",-1.61%
+35,Great Lakes,DET,Michigan,DTW,Detroit Metropolitan Wayne County,Detroit,P,L,"789,037,070","779,475,670",1.23%
+36,Northwest Mountain,SEA,Washington,BFI,Boeing Field/King County International,Seattle,P,N,"745,346,446","793,142,903",-6.03%
+37,Eastern,HAR,Pennsylvania,ABE,Lehigh Valley International,Allentown,P,N,"689,003,342","387,362,976",77.87%
+38,Western Pacific,LAX,California,SAN,San Diego International,San Diego,P,L,"635,220,350","640,294,600",-0.79%
+39,Southern,MEM,North Carolina,GSO,Piedmont Triad International,Greensboro,P,S,"607,083,703","498,972,502",21.67%
+40,Southern,MEM,North Carolina,CLT,Charlotte/Douglas International,Charlotte,P,L,"604,310,880","467,253,040",29.33%
+41,Great Lakes,CHI,Wisconsin,MKE,General Mitchell International,Milwaukee,P,M,"602,686,514","614,442,650",-1.91%
+42,Southwest,TEX,Texas,LRD,Laredo International,Laredo,P,N,"587,517,683","450,435,440",30.43%
+43,Central,ACE,Missouri,MCI,Kansas City International,Kansas City,P,M,"571,041,998","616,946,618",-7.44%
+44,Southwest,LANM,New Mexico,ABQ,Albuquerque International Sunport,Albuquerque,P,M,"562,896,132","575,788,972",-2.24%
+45,Western Pacific,PHX,Nevada,RNO,Reno/Tahoe International,Reno,P,S,"553,310,545","612,740,180",-9.70%
+46,Southwest,TEX,Texas,AUS,Austin-Bergstrom International,Austin,P,M,"547,734,473","483,753,210",13.23%
+47,Southwest,TEX,Texas,ELP,El Paso International,El Paso,P,S,"525,102,662","510,464,050",2.87%
+48,Southern,ATL,Puerto Rico,BQN,Rafael Hernandez,Aguadilla,P,N,"523,499,150","532,393,460",-1.67%
+49,Southern,MEM,North Carolina,RDU,Raleigh-Durham International,Raleigh,P,M,"502,693,290","452,516,590",11.09%
+50,Eastern,WAS,Virginia,RIC,Richmond International,Highland Springs,P,S,"500,165,722","432,292,504",15.70%
+51,New England,ANE,New Hampshire,MHT,Manchester,Manchester,P,S,"489,538,104","482,624,702",1.43%
+52,Northwest Mountain,SEA,Washington,GEG,Spokane International,Spokane,P,S,"470,113,311","456,248,858",3.04%
+53,Eastern,HAR,Pennsylvania,PIT,Pittsburgh International,Pittsburgh,P,M,"470,107,335","452,232,238",3.95%
+54,Eastern,WAS,Virginia,IAD,Washington Dulles International,Dulles,P,L,"458,000,764","460,404,810",-0.52%
+55,Southern,ORL,Florida,FLL,Fort Lauderdale/Hollywood International,Fort Lauderdale,P,L,"457,598,800","492,849,220",-7.15%
+56,Western Pacific,SFO,California,MHR,Sacramento Mather,Sacramento,R,-,"440,980,200","375,507,250",17.44%
+57,Southern,JAN,Alabama,HSV,Huntsville International-Carl T Jones Field,Huntsville,P,S,"419,594,598","412,087,119",1.82%
+58,Southern,ORL,Florida,JAX,Jacksonville International,Jacksonville,P,M,"414,939,220","407,219,810",1.90%
+59,Central,ACE,Nebraska,OMA,Eppley Airfield,Omaha,P,M,"406,576,402","395,622,742",2.77%
+60,Southern,ATL,South Carolina,CAE,Columbia Metropolitan,Columbia,P,S,"402,908,533","407,001,110",-1.01%
+61,Great Lakes,DET,Ohio,CLE,Cleveland-Hopkins International,Cleveland,P,M,"381,670,547","404,250,115",-5.59%
+62,Central,ACE,Iowa,DSM,Des Moines International,Des Moines,P,S,"379,333,260","486,397,326",-22.01%
+63,Western Pacific,PHX,Nevada,LAS,McCarran International,Las Vegas,P,L,"370,950,370","402,194,528",-7.77%
+64,Western Pacific,SFO,California,SMF,Sacramento International,Sacramento,P,M,"368,708,250","332,969,600",10.73%
+65,Southwest,TEX,Texas,LBB,Lubbock Preston Smith International,Lubbock,P,S,"363,743,489","351,748,770",3.41%
+66,Eastern,HAR,Pennsylvania,MDT,Harrisburg International,Harrisburg,P,S,"363,446,474","363,331,770",0.03%
+67,Great Lakes,DMA,South Dakota,FSD,Joe Foss Field,Sioux Falls,P,S,"358,051,875","368,953,545",-2.95%
+68,Southwest,LANM,Louisiana,MSY,Louis Armstrong New Orleans International,Metairie,P,M,"357,091,410","315,901,744",13.04%
+69,Southwest,AROK,Oklahoma,TUL,Tulsa International,Tulsa,P,S,"354,497,900","322,104,024",10.06%
+70,Northwest Mountain,HLN,Montana,BIL,Billings Logan International,Billings,P,S,"348,889,570","338,960,110",2.93%
+71,Central,ACE,Missouri,STL,St Louis Lambert International,St. Louis,P,M,"347,239,924","353,412,190",-1.75%
+72,Southern,ATL,South Carolina,GSP,Greenville Spartanburg International,Greer,P,S,"344,330,478","247,817,497",38.95%
+73,Northwest Mountain,HLN,Idaho,BOI,Boise Air Terminal/Gowen Field,Boise,P,S,"340,620,900","346,300,874",-1.64%
+74,Western Pacific,SFO,California,SCK,Stockton Metropolitan,Stockton,P,N,"332,058,000","183,923,000",80.54%
+75,Eastern,NYC,New York,SYR,Syracuse Hancock International,Syracuse,P,S,"324,690,840","324,872,528",-0.06%
+76,Southern,ATL,South Carolina,CHS,Charleston AFB/International,Charleston,P,S,"308,727,000","296,460,500",4.14%
+77,Southwest,TEX,Texas,HRL,Valley International,Harlingen,P,N,"300,260,450","263,356,300",14.01%
+78,Central,ACE,Iowa,CID,The Eastern Iowa,Cedar Rapids,P,S,"298,628,452","276,270,958",8.09%
+79,Southern,MEM,Tennessee,BNA,Nashville International,Nashville,P,M,"292,444,384","284,476,598",2.80%
+80,Southwest,LANM,Louisiana,SHV,Shreveport Regional,Shreveport,P,N,"288,092,171","242,118,666",18.99%
+81,Western Pacific,HNL,Hawaii,KOA,Ellison Onizuka Kona International at Keahole,Kailua Kona,P,S,"284,604,200","257,839,100",10.38%
+82,Eastern,NYC,New York,BUF,Buffalo Niagara International,Buffalo,P,M,"283,906,303","283,091,810",0.29%
+83,Southern,MEM,Tennessee,TYS,McGhee Tyson,Alcoa,P,S,"274,964,572","294,315,217",-6.57%
+84,Western Pacific,HNL,Hawaii,OGG,Kahului,Kahului,P,M,"266,584,000","281,891,500",-5.43%
+85,Eastern,NYC,New York,ROC,Greater Rochester International,Rochester,P,S,"254,050,350","249,058,014",2.00%
+86,Western Pacific,SFO,California,SJC,Norman Y Mineta San Jose International,San Jose,P,M,"250,299,750","263,522,200",-5.02%
+87,Great Lakes,DMA,North Dakota,FAR,Hector International,Fargo,P,N,"248,112,284","52,779,056",370.10%
+88,Eastern,WAS,Virginia,ORF,Norfolk International,Norfolk,P,S,"246,273,890","206,199,130",19.43%
+89,Southwest,AROK,Oklahoma,OKC,Will Rogers World,Oklahoma City,P,S,"239,856,500","215,794,981",11.15%
+90,Northwest Mountain,SEA,Washington,PAE,Snohomish County (Paine Field),Everett,R,-,"234,244,000","234,822,000",-0.25%
+91,Great Lakes,DET,Michigan,GRR,Gerald R Ford International,Grand Rapids,P,S,"227,233,136","230,591,334",-1.46%
+92,Southwest,TEX,Texas,SKF,Kelly Field,San Antonio,GA,-,"217,739,374",0,
+93,Eastern,NYC,New York,SWF,Stewart International,Newburgh,P,N,"210,255,080","156,925,400",33.98%
+94,Central,ACE,Kansas,ICT,Wichita Dwight D Eisenhower National,Wichita,P,S,"208,996,345","205,444,042",1.73%
+95,Western Pacific,HNL,Hawaii,ITO,Hilo International,Hilo,P,S,"197,871,700","182,224,500",8.59%
+96,Central,ACE,Missouri,SGF,Springfield-Branson National,Springfield,P,S,"197,228,400","185,849,200",6.12%
+97,Great Lakes,CHI,Indiana,FWA,Fort Wayne International,Fort Wayne,P,N,"192,461,217","198,616,254",-3.10%
+98,Southern,ORL,Florida,RSW,Southwest Florida International,Fort Myers,P,M,"188,341,690","143,111,696",31.60%
+99,Great Lakes,DET,Michigan,YIP,Willow Run,Detroit,R,-,"181,894,392","173,195,890",5.02%
+100,Northwest Mountain,HLN,Montana,GTF,Great Falls International,Great Falls,P,N,"180,556,493","174,025,620",3.75%
+101,Great Lakes,DET,Michigan,LAN,Capital Region International,Clinton (Township of),P,N,"178,695,639","157,107,141",13.74%
+102,New England,ANE,Rhode Island,PVD,Theodore Francis Green State,Warwick,P,S,"174,463,500","112,111,900",55.62%
+103,Southern,JAN,Alabama,BFM,Mobile Downtown,Mobile,GA,-,"169,828,110","174,100,478",-2.45%
+104,Eastern,NYC,New York,ALB,Albany International,Albany,P,S,"167,437,140","168,750,952",-0.78%
+105,Southern,JAN,Alabama,BHM,Birmingham-Shuttlesworth International,Birmingham,P,S,"163,825,910","178,257,470",-8.10%
+106,Southern,ORL,Florida,PIE,St Pete-Clearwater International,Clearwater,P,S,"161,110,800","187,027,520",-13.86%
+107,Western Pacific,LAX,California,LGB,Long Beach /Daugherty Field/,Long Beach,P,S,"160,857,854","168,332,836",-4.44%
+108,Western Pacific,PHX,Arizona,TUS,Tucson International,Tucson,P,S,"160,435,096","162,597,736",-1.33%
+109,Southern,ATL,Georgia,ABY,Southwest Georgia Regional,Albany,P,N,"159,973,000","164,966,852",-3.03%
+110,Southwest,AROK,Arkansas,LIT,Bill and Hillary Clinton National/Adams Field,Little Rock,P,S,"155,100,226","151,444,188",2.41%
+111,Eastern,WAS,Virginia,ROA,Roanoke-Blacksburg Regional/Woodrum Field,Roanoke,P,N,"134,129,420","126,170,700",6.31%
+112,Great Lakes,CHI,Wisconsin,ATW,Appleton International,Appleton,P,N,"125,550,050",0,
+113,Great Lakes,CHI,Illinois,PIA,General Downing - Peoria International,Peoria,P,N,"122,923,314","138,141,580",-11.02%
+114,Great Lakes,DET,Ohio,TOL,Toledo Express,Toledo,P,N,"122,077,000","122,077,000",0.00%
+115,Western Pacific,HNL,Hawaii,LIH,Lihue,Lihue,P,S,"117,354,600","126,390,500",-7.15%
+116,Western Pacific,SFO,California,FAT,Fresno Yosemite International,Fresno,P,S,"115,158,200","106,873,494",7.75%
+117,Southwest,LANM,Louisiana,LFT,Lafayette Regional/Paul Fournet Field,Lafayette,P,N,"111,144,000","110,454,000",0.62%
+118,Alaskan,AAL,Alaska,FAI,Fairbanks International,Fairbanks,P,S,"109,946,749","115,182,948",-4.55%
+119,Western Pacific,HNL,Guam,GUM,Guam International,Tamuning,P,S,"108,440,100","106,768,850",1.57%
+120,Great Lakes,CHI,Indiana,SBN,South Bend International,South Bend,P,N,"99,517,954","105,265,435",-5.46%
+121,Northwest Mountain,DEN,Colorado,COS,City of Colorado Springs Municipal,Colorado Springs,P,S,"89,447,616","107,391,294",-16.71%
+122,Great Lakes,DET,Michigan,FNT,Bishop International,Flint,P,N,"84,454,392","83,455,514",1.20%
+123,Southern,JAN,Mississippi,JAN,Jackson-Medgar Wiley Evers International,Jackson,P,S,"75,249,400","76,832,542",-2.06%
+124,Southern,MEM,Tennessee,CHA,Lovell Field,Chattanooga,P,S,"55,250,685","53,159,470",3.93%
+125,Great Lakes,DET,Ohio,DAY,James M Cox Dayton International,Dayton,P,S,"51,788,650","51,480,000",0.60%
+126,New England,ANE,Maine,BGR,Bangor International,Bangor,P,N,"36,608,381","24,482,261",49.53%
+127,Great Lakes,DMA,Minnesota,TVF,Thief River Falls Regional,Thief River Falls,CS,-,"27,645,631","24,825,109",11.36%
+128,Southwest,TEX,Texas,BRO,Brownsville/South Padre Island International,Brownsville,P,N,"23,106,426","16,228,017",42.39%
+129,Western Pacific,LAX,California,SBD,San Bernardino International,San Bernardino,R,-,"20,098,000","5,026,700",299.82%
+130,Western Pacific,LAX,California,RIV,March ARB,Riverside,R,-,"7,980,000","7,770,000",2.70%
+131,Great Lakes,DMA,North Dakota,GFK,Grand Forks International,Grand Forks,P,N,"7,844,617","206,058,780",-96.19%
+132,Western Pacific,SFO,California,CIC,Chico Municipal,Chico,GA,-,"5,949,600","3,207,600",85.48%
+133,Great Lakes,DET,Michigan,IWD,Gogebic-Iron County,Ironwood,CS,-,"4,793,400","4,848,400",-1.13%
+134,Eastern,NYC,New York,IAG,Niagara Falls International,Niagara Falls,P,N,"4,383,696","666,022",558.19%
+135,Southwest,LANM,New Mexico,GUP,Gallup Municipal,Gallup,GA,-,"3,976,550","4,423,025",-10.09%
+136,New England,ANE,New Hampshire,PSM,Portsmouth International at Pease,Portsmouth,P,N,"2,517,435","2,492,318",1.01%
+137,Southwest,LANM,New Mexico,TCC,Tucumcari Municipal,Tucumcari,GA,-,"1,850,470","1,384,900",33.62%
+9999,Western Pacific,LAX,California,VNY,Van Nuys,Van Nuys,R,-,0,"20,800",-100.00%

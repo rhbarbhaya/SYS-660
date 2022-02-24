@@ -1,0 +1,1367 @@
+Rank,RO,ST,Locid,City,Airport Name,S/L,Hub,CY 17 Enplanements,CY 16 Enplanements,% Change
+56,AL,AK,ANC,Anchorage,Ted Stevens Anchorage International,P,M,"2,556,191","2,563,524",-0.29%
+119,AL,AK,FAI,Fairbanks,Fairbanks International,P,S,"543,839","538,881",0.92%
+133,AL,AK,JNU,Juneau,Juneau International,P,N,"422,266","420,442",0.43%
+202,AL,AK,BET,Bethel,Bethel,P,N,"146,652","155,791",-5.87%
+210,AL,AK,KTN,Ketchikan,Ketchikan International,P,N,"131,144","127,881",2.55%
+237,AL,AK,ENA,Kenai,Kenai Municipal,P,N,"92,973","92,485",0.53%
+249,AL,AK,SIT,Sitka,Sitka Rocky Gutierrez,P,N,"83,598","83,404",0.23%
+250,AL,AK,ADQ,Kodiak,Kodiak,P,N,"83,577","79,682",4.89%
+260,AL,AK,OTZ,Kotzebue,Ralph Wien Memorial,P,N,"67,951","64,481",5.38%
+263,AL,AK,OME,Nome,Nome,P,N,"61,651","60,655",1.64%
+283,AL,AK,HOM,Homer,Homer,P,N,"46,322","44,117",5.00%
+284,AL,AK,BRW,Barrow,Wiley Post-Will Rogers Memorial,P,N,"45,958","45,300",1.45%
+290,AL,AK,SCC,Deadhorse,Deadhorse,P,N,"41,849","51,205",-18.27%
+304,AL,AK,AKN,King Salmon,King Salmon,P,N,"34,800","36,717",-5.22%
+312,AL,AK,DUT,Unalaska,Unalaska,P,N,"30,080","31,055",-3.14%
+316,AL,AK,DLG,Dillingham,Dillingham,P,N,"28,895","33,616",-14.04%
+336,AL,AK,PSG,Petersburg,Petersburg James A Johnson,P,N,"22,915","21,896",4.65%
+348,AL,AK,LHD,Anchorage,Lake Hood,P,N,"20,689","23,382",-11.52%
+356,AL,AK,MRI,Anchorage,Merrill Field,P,N,"18,298","19,144",-4.42%
+357,AL,AK,CDV,Cordova,Merle K (Mudhole) Smith,P,N,"18,280","18,649",-1.98%
+367,AL,AK,UNK,Unalakleet,Unalakleet,P,N,"16,111","16,948",-4.94%
+378,AL,AK,WRG,Wrangell,Wrangell,P,N,"13,160","12,569",4.70%
+382,AL,AK,ANI,Aniak,Aniak,P,N,"12,735","13,688",-6.96%
+386,AL,AK,KSM,St. Mary's (ANV/ANVSA),St Mary's,P,N,"11,528","12,851",-10.29%
+390,AL,AK,VDZ,Valdez,Valdez Pioneer Field,P,N,"11,321","12,631",-10.37%
+396,AL,AK,AKW,Klawock,Klawock,P,N,"10,923","10,628",2.78%
+398,AL,AK,YAK,Yakutat,Yakutat,P,N,"10,886","10,756",1.21%
+287,AL,AK,5KE,Ketchikan,Ketchikan Harbor,GA,None,"42,492","44,372",-4.24%
+389,AL,AK,DGG,Red Dog Mine,Red Dog,GA,None,"11,350","10,844",4.67%
+404,AL,AK,GAL,Galena,Edward G Pitka Sr,CS,None,"9,664","10,532",-8.24%
+409,AL,AK,GST,Gustavus,Gustavus,CS,None,"9,061","11,438",-20.78%
+419,AL,AK,ENM,Emmonak,Emmonak,CS,None,"8,004","8,072",-0.84%
+422,AL,AK,HNS,Haines,Haines,CS,None,"7,864","8,936",-12.00%
+427,AL,AK,SGY,Skagway,Skagway,CS,None,"7,380","8,714",-15.31%
+428,AL,AK,CDB,Cold Bay,Cold Bay,CS,None,"7,338","7,403",-0.88%
+433,AL,AK,HNH,Hoonah,Hoonah,CS,None,"6,820","8,809",-22.58%
+435,AL,AK,FYU,Fort Yukon,Fort Yukon,CS,None,"6,799","6,552",3.77%
+440,AL,AK,CXF,Coldfoot,Coldfoot,CS,None,"6,345","7,203",-11.91%
+445,AL,AK,AQH,Quinhagak,Quinhagak,CS,None,"6,101","7,012",-12.99%
+449,AL,AK,ILI,Iliamna,Iliamna,CS,None,"5,752","5,835",-1.42%
+454,AL,AK,5Z9,Katmai National Park,Lake Brooks,GA,None,"5,677","6,634",-14.43%
+462,AL,AK,WLK,Selawik,Selawik,CS,None,"5,260","5,011",4.97%
+463,AL,AK,VAK,Chevak,Chevak,CS,None,"5,243","5,654",-7.27%
+464,AL,AK,IIK,Kipnuk,Kipnuk,CS,None,"5,176","5,747",-9.94%
+468,AL,AK,HPB,Hooper Bay,Hooper Bay,CS,None,"5,022","5,635",-10.88%
+470,AL,AK,PHO,Point Hope,Point Hope,CS,None,"4,964","5,338",-7.01%
+477,AL,AK,OOK,Wade Hampton (Census Area),Toksook Bay,CS,None,"4,777","5,316",-10.14%
+478,AL,AK,WTK,Noatak,Noatak,CS,None,"4,716","4,681",0.75%
+481,AL,AK,BVK,Buckland,Buckland,CS,None,"4,456","4,198",6.15%
+482,AL,AK,D76,Noorvik,Robert /Bob/ Curtis Memorial,CS,None,"4,444","4,004",10.99%
+486,AL,AK,SOV,Seldovia,Seldovia,CS,None,"4,206","4,133",1.77%
+487,AL,AK,SVA,Savoonga,Savoonga,CS,None,"4,188","4,197",-0.21%
+489,AL,AK,EDF,Anchorage,Elmendorf AFB,GA,None,"4,128","3,236",27.56%
+490,AL,AK,SCM,Scammon Bay,Scammon Bay,CS,None,"4,093","4,513",-9.31%
+491,AL,AK,CFK,Chefornak,Chefornak,CS,None,"4,027","4,456",-9.63%
+493,AL,AK,SDP,Sand Point,Sand Point,CS,None,"3,998","4,146",-3.57%
+499,AL,AK,EIL,Fairbanks,Eielson AFB,GA,None,"3,864","1,794",115.38%
+500,AL,AK,AKP,Anaktuvuk Pass,Anaktuvuk Pass,CS,None,"3,856","3,522",9.48%
+505,AL,AK,AWI,Barrow (County),Wainwright,CS,None,"3,756","3,932",-4.48%
+508,AL,AK,TPO,Port Alsworth,Port Alsworth,GA,None,"3,638","3,884",-6.33%
+509,AL,AK,A61,Tuntutuliak,Tuntutuliak,CS,None,"3,614","3,875",-6.74%
+510,AL,AK,2A9,Kotlik,Kotlik,CS,None,"3,612","3,531",2.29%
+512,AL,AK,DUY,Kongiganak,Kongiganak,CS,None,"3,589","3,978",-9.78%
+515,AL,AK,UUO,Willow,Willow,GA,None,"3,500","2,000",75.00%
+516,AL,AK,GAM,Gambell,Gambell,CS,None,"3,493","3,860",-9.51%
+517,AL,AK,IAN,Kiana,Bob Baker Memorial,CS,None,"3,485","3,127",11.45%
+519,AL,AK,KVL,Kivalina,Kivalina,CS,None,"3,454","3,421",0.96%
+520,AL,AK,SHH,Shishmaref,Shishmaref,CS,None,"3,360","3,445",-2.47%
+521,AL,AK,0AK,Pilot Station,Pilot Station,CS,None,"3,353","4,127",-18.75%
+522,AL,AK,GGV,Kwigillingok,Kwigillingok,CS,None,"3,341","3,870",-13.67%
+524,AL,AK,MOU,Mountain Village,Mountain Village,CS,None,"3,263","4,159",-21.54%
+526,AL,AK,BTI,Kaktovik,Barter Island,CS,None,"3,212","3,136",2.42%
+528,AL,AK,16A,Nunapitchuk,Nunapitchuk,CS,None,"3,096","3,628",-14.66%
+529,AL,AK,KAE,Kake,Kake,CS,None,"3,087","3,227",-4.34%
+530,AL,AK,Z09,Kasigluk,Kasigluk,CS,None,"3,049","4,190",-27.23%
+534,AL,AK,KWT,Kwethluk,Kwethluk,CS,None,"2,948","3,706",-20.45%
+536,AL,AK,KLG,Kalskag,Kalskag,CS,None,"2,915","3,142",-7.22%
+537,AL,AK,HLA,Huslia,Huslia,CS,None,"2,897","2,728",6.20%
+538,AL,AK,EEK,Eek,Eek,CS,None,"2,839","3,406",-16.65%
+539,AL,AK,2C7,Shaktoolik,Shaktoolik,CS,None,"2,779","2,299",20.88%
+541,AL,AK,AUK,Alakanuk,Alakanuk,CS,None,"2,733","2,854",-4.24%
+544,AL,AK,WBB,Stebbins,Stebbins,CS,None,"2,687","2,571",4.51%
+546,AL,AK,2A3,Larsen Bay,Larsen Bay,CS,None,"2,651","2,649",0.08%
+547,AL,AK,SMK,St. Michael (ANV/ANVSA),St Michael,CS,None,"2,641","2,464",7.18%
+548,AL,AK,TAL,Tanana,Ralph M Calhoun Memorial,CS,None,"2,633","2,952",-10.81%
+549,AL,AK,EWU,Newtok,Newtok,CS,None,"2,602","2,936",-11.38%
+550,AL,AK,SNP,Saint Paul Island,St Paul Island,CS,None,"2,595","2,838",-8.56%
+551,AL,AK,6R7,Old Harbor,Old Harbor,CS,None,"2,586","1,285",101.25%
+553,AL,AK,MCG,McGrath,McGrath,CS,None,"2,566","3,236",-20.70%
+554,AL,AK,Z13,Akiachak,Akiachak,CS,None,"2,556","3,045",-16.06%
+555,AL,AK,MDM,Marshall,Marshall Don Hunter Sr,CS,None,"2,505","3,194",-21.57%
+557,AL,AK,ADK,Adak (Naval) Station/Mitchell Field,Adak,GA,None,"2,455","2,151",14.13%
+558,AL,AK,NUL,Nulato,Nulato,GA,None,"2,440","2,694",-9.43%
+560,AL,AK,KTS,Brevig Mission,Brevig Mission,GA,None,"2,413","2,301",4.87%
+564,AL,AK,AQT,Nuiqsut,Nuiqsut,GA,None,"2,362","2,147",10.01%
+565,AL,AK,SHG,Shungnak,Shungnak,GA,None,"2,360","2,217",6.45%
+566,AL,AK,KKA,Koyuk,Koyuk Alfred Adams,GA,None,"2,342","2,440",-4.02%
+567,AL,AK,PGM,Port Graham,Port Graham,GA,None,"2,339","2,010",16.37%
+568,AL,AK,ATK,Atqasuk,Atqasuk Edward Burnell Sr Memorial,GA,None,"2,335","2,215",5.42%
+569,AL,AK,ELI,Elim,Elim,GA,None,"2,313","2,354",-1.74%
+572,AL,AK,TLT,Tuluksak,Tuluksak,GA,None,"2,237","2,634",-15.07%
+574,AL,AK,MTM,Metlakatla,Metlakatla,GA,None,"2,201","2,527",-12.90%
+575,AL,AK,KEB,English Bay,Nanwalek,GA,None,"2,190","1,962",11.62%
+576,AL,AK,AFM,Ambler,Ambler,GA,None,"2,175","2,095",3.82%
+577,AL,AK,RSH,Russian Mission,Russian Mission,GA,None,"2,132","2,445",-12.80%
+578,AL,AK,AGN,Angoon,Angoon,GA,None,"2,107","2,152",-2.09%
+579,AL,AK,GLV,Golovin,Golovin,GA,None,"2,029","1,917",5.84%
+580,AL,AK,4A2,Atmautluak,Atmautluak,GA,None,"2,019","2,706",-25.39%
+581,AL,AK,KTB,Thorne Bay,Thorne Bay,GA,None,"2,004","2,351",-14.76%
+582,AL,AK,RBY,Ruby,Ruby,GA,None,"1,982","1,751",13.19%
+583,AL,AK,AKI,Akiak,Akiak,GA,None,"1,966","2,173",-9.53%
+584,AL,AK,CGA,Craig,Craig,GA,None,"1,928","2,581",-25.30%
+586,AL,AK,VEE,Venetie,Venetie,GA,None,"1,887","2,059",-8.35%
+589,AL,AK,PIZ,Point Lay,Point Lay LRRS,GA,None,"1,859","1,774",4.79%
+590,AL,AK,BTT,Bettles,Bettles,GA,None,"1,835","1,639",11.96%
+591,AL,AK,6A8,Allakaket,Allakaket,GA,None,"1,819","1,827",-0.44%
+592,AL,AK,ARC,Arctic Village,Arctic Village,GA,None,"1,797","1,885",-4.67%
+595,AL,AK,WMO,White Mountain,White Mountain,GA,None,"1,743","1,636",6.54%
+597,AL,AK,IGT,Nightmute,Nightmute,GA,None,"1,732","1,973",-12.21%
+598,AL,AK,4KA,Tununak,Tununak,GA,None,"1,704","2,352",-27.55%
+600,AL,AK,ORI,Port Lions,Port Lions,GA,None,"1,678","1,114",50.63%
+601,AL,AK,TYE,Tyonek,Tyonek,GA,None,"1,674","1,745",-4.07%
+602,AL,AK,KAL,Kaltag,Kaltag,GA,None,"1,626","1,420",14.51%
+607,AL,AK,DEE,Deering,Deering,GA,None,"1,536","1,263",21.62%
+608,AL,AK,7AK,Akutan,Akutan,GA,None,"1,512","1,636",-7.58%
+609,AL,AK,TER,Teller,Teller,GA,None,"1,499","1,506",-0.46%
+613,AL,AK,4K5,Ouzinkie,Ouzinkie,GA,None,"1,432",922,55.31%
+614,AL,AK,KVC,King Cove,King Cove,GA,None,"1,432","1,597",-10.33%
+615,AL,AK,MYU,Mekoryuk,Mekoryuk,GA,None,"1,425","1,477",-3.52%
+616,AL,AK,KNW,Bristol Bay (Borough),New Stuyahok,GA,None,"1,412",927,52.32%
+620,AL,AK,LKK,Kulik Lake,Kulik Lake,GA,None,"1,393","1,644",-15.27%
+622,AL,AK,HCA,Holy Cross,Holy Cross,GA,None,"1,371","1,176",16.58%
+624,AL,AK,OBU,Kobuk,Kobuk,GA,None,"1,357","1,180",15.00%
+627,AL,AK,KWF,Waterfall,Waterfall,GA,None,"1,299","1,383",-6.07%
+628,AL,AK,IWK,Wales,Wales,GA,None,"1,298","1,187",9.35%
+629,AL,AK,WNA,Napakiak,Napakiak,GA,None,"1,252","1,612",-22.33%
+631,AL,AK,GNU,Goodnews Bay,Goodnews,GA,None,"1,219","1,246",-2.17%
+634,AL,AK,HYL,Hollis,Clark Bay,GA,None,"1,203","1,103",9.07%
+635,AL,AK,BLG,Beluga,Beluga,GA,None,"1,202","1,231",-2.36%
+636,AL,AK,PEC,Pelican,Pelican,GA,None,"1,185","1,084",9.32%
+638,AL,AK,5NN,Nondalton,Nondalton,GA,None,"1,157","1,468",-21.19%
+640,AL,AK,HUS,Hughes,Hughes,GA,None,"1,087","1,101",-1.27%
+641,AL,AK,SXP,Sheldon Point,Nunam Iqua,GA,None,"1,064","1,286",-17.26%
+642,AL,AK,63A,Petersburg,Lloyd R Roundtree Seaplane Facility,GA,None,"1,047",900,16.33%
+644,AL,AK,9K2,Kokhanok,Kokhanok,GA,None,"1,029",884,16.40%
+645,AL,AK,PKA,Napaskiak,Napaskiak,GA,None,"1,023","1,884",-45.70%
+649,AL,AK,AKK,Akhiok,Akhiok,GA,None,997,399,149.87%
+656,AL,AK,EII,Egegik,Egegik,GA,None,917,974,-5.85%
+659,AL,AK,TOG,Aniak (Census Subarea),Togiak,GA,None,886,"1,324",-33.08%
+662,AL,AK,KYU,Koyukuk,Koyukuk,GA,None,870,933,-6.75%
+663,AL,AK,ANV,Anvik,Anvik,GA,None,862,824,4.61%
+664,AL,AK,GBH,Nome (Census Area),Galbraith Lake,GA,None,856,777,10.17%
+668,AL,AK,JZZ,Bristol Bay (Borough),Koliganek,GA,None,820,687,19.36%
+672,AL,AK,KGX,Grayling,Grayling,GA,None,800,869,-7.94%
+674,AL,AK,WBQ,Beaver,Beaver,GA,None,795,767,3.65%
+680,AL,AK,TKE,Tenakee Springs,Tenakee,GA,None,735,728,0.96%
+682,AL,AK,CIK,Chalkyitsik,Chalkyitsik,GA,None,719,744,-3.36%
+684,AL,AK,AJC,Chignik,Chignik,GA,None,698,663,5.28%
+685,AL,AK,FSP,Nikolai,Nikolai,GA,None,690,336,105.36%
+688,AL,AK,PTH,Port Heiden,Port Heiden,GA,None,657,828,-20.65%
+690,AL,AK,PPC,Yukon-Koyukuk (Census Area),Prospect Creek,GA,None,641,724,-11.46%
+692,AL,AK,RMP,Rampart,Rampart,GA,None,621,561,10.70%
+694,AL,AK,A43,Taku Harbor,Taku Harbor,GA,None,614,21,2823.81%
+699,AL,AK,FBK,Fairbanks/Ft Wainwright,Ladd AAF,GA,None,596,251,137.45%
+703,AL,AK,SHX,Shageluk,Shageluk,GA,None,583,622,-6.27%
+704,AL,AK,ELV,Elfin Cove,Elfin Cove,GA,None,578,608,-4.93%
+705,AL,AK,IGG,Bristol Bay (Borough),Igiugig,GA,None,567,612,-7.35%
+706,AL,AK,MBA,Bristol Bay (Borough),Manokotak,GA,None,561,"7,293",-92.31%
+707,AL,AK,PNP,Pilot Point,Pilot Point,GA,None,561,499,12.42%
+708,AL,AK,PEV,Perryville,Perryville,GA,None,560,636,-11.95%
+712,AL,AK,EAA,Eagle,Eagle,GA,None,519,523,-0.76%
+713,AL,AK,4K0,Bristol Bay (Borough),Pedro Bay,GA,None,516,570,-9.47%
+714,AL,AK,7KA,Matanuska-Susitna (Borough),Tatitlek,GA,None,505,2,25150.00%
+719,AL,AK,KEK,Ekwok,Ekwok,GA,None,469,388,20.88%
+724,AL,AK,PBV,St. George,St George,GA,None,439,519,-15.41%
+725,AL,AK,KCL,Chignik Flats,Chignik Lagoon,GA,None,437,492,-11.18%
+728,AL,AK,SVS,Stevens Village,Stevens Village,GA,None,416,274,51.82%
+729,AL,AK,TCT,Takotna,Takotna,GA,None,402,240,67.50%
+731,AL,AK,CJX,Crooked Creek,Crooked Creek,GA,None,389,374,4.01%
+732,AL,AK,KYK,Karluk,Karluk,GA,None,384,286,34.27%
+741,AL,AK,C05,Seward (County),Chenega Bay,GA,None,359,0,0.00%
+744,AL,AK,6K8,Tok,Tok Junction,GA,None,346,419,-17.42%
+746,AL,AK,PTU,Platinum,Platinum,GA,None,346,509,-32.02%
+747,AL,AK,KFP,False Pass,False Pass,GA,None,339,357,-5.04%
+748,AL,AK,SLQ,Sleetmute,Sleetmute,GA,None,339,278,21.94%
+750,AL,AK,OUL,Nelson Lagoon,Nelson Lagoon,GA,None,338,453,-25.39%
+755,AL,AK,Z91,Birch Creek,Birch Creek,GA,None,309,261,18.39%
+757,AL,AK,EXI,Skagway-Yakutat-Angoon (Census Area),Excursion Inlet,GA,None,304,539,-43.60%
+760,AL,AK,CRC,Circle,Circle City,GA,None,287,252,13.89%
+765,AL,AK,A79,Chignik Lake,Chignik Lake,GA,None,277,261,6.13%
+768,AL,AK,9A3,Chuathbaluk,Chuathbaluk,GA,None,265,266,-0.38%
+770,AL,AK,AKA,Atka,Atka,GA,None,264,357,-26.05%
+775,AL,AK,9Z8,Levelock,Levelock,GA,None,240,218,10.09%
+777,AL,AK,LUR,Cape Lisburne,Cape Lisburne LRRS,GA,None,237,154,53.90%
+780,AL,AK,51Z,Minto,Minto Al Wright,GA,None,201,158,27.22%
+781,AL,AK,CLP,Clarks Point,Clarks Point,GA,None,197,405,-51.36%
+784,AL,AK,MHM,Lake Minchumina,Minchumina,GA,None,190,185,2.70%
+790,AL,AK,SKW,Skwentna,Skwentna,GA,None,171,107,59.81%
+803,AL,AK,1AK3,Cold Bay,Port Moller,GA,None,141,199,-29.15%
+804,AL,AK,Z78,Chignik,Chignik Bay,GA,None,137,317,-56.78%
+808,AL,AK,IKO,Nikolski,Nikolski AS,GA,None,131,154,-14.94%
+811,AL,AK,9A8,Kodiak Island (Borough),Ugashik,GA,None,129,134,-3.73%
+812,AL,AK,DCK,Dahl Creek,Dahl Creek,GA,None,128,156,-17.95%
+813,AL,AK,KCC,Coffman Cove,Coffman Cove,GA,None,127,86,47.67%
+825,AL,AK,A63,Aniak (Census Subarea),Twin Hills,GA,None,110,104,5.77%
+828,AL,AK,ALZ,Lazy Bay,Alitak,GA,None,106,129,-17.83%
+831,AL,AK,MLY,Manley Hot Springs,Manley Hot Springs,GA,None,101,104,-2.88%
+833,AL,AK,84K,Meyers Chuck,Meyers Chuck,GA,None,99,184,-46.20%
+838,AL,AK,4Z7,Hyder,Hyder,GA,None,89,146,-39.04%
+844,AL,AK,WSN,South Naknek,South Naknek Nr 2,GA,None,79,91,-13.19%
+845,AL,AK,CZN,Chisana,Chisana,GA,None,74,97,-23.71%
+848,AL,AK,SRV,Stony River,Stony River 2,GA,None,73,85,-14.12%
+853,AL,AK,RDV,Red Devil,Red Devil,GA,None,68,44,54.55%
+858,AL,AK,HRR,Yukon-Koyukuk (Census Area),Healy River,GA,None,66,83,-20.48%
+861,AL,AK,UTO,Utopia Creek,Indian Mountain LRRS,GA,None,65,79,-17.72%
+867,AL,AK,CZF,Cape Romanzof,Cape Romanzof LRRS,GA,None,61,113,-46.02%
+875,AL,AK,EHM,Cape Newenham,Cape Newenham LRRS,GA,None,58,76,-23.68%
+877,AL,AK,TLJ,Takotna,Tatalina LRRS,GA,None,58,61,-4.92%
+878,AL,AK,96Z,North Whale Pass,Whale Pass Seaplane Float Harbor Facility,GA,None,57,88,-35.23%
+880,AL,AK,PAQ,Palmer,"Warren ""Bud"" Woods Palmer Municipal",GA,None,57,47,21.28%
+881,AL,AK,TSG,Tanacross,Tanacross,GA,None,57,0,0.00%
+882,AL,AK,UMT,Umiat,Umiat,GA,None,56,73,-23.29%
+884,AL,AK,19P,Port Protection,Port Protection,GA,None,53,76,-30.26%
+888,AL,AK,KWP,West Point,West Point Village,GA,None,51,74,-31.08%
+892,AL,AK,TNC,Tin City,Tin City LRRS,GA,None,49,100,-51.00%
+904,AL,AK,L20,Yukon Charley Rivers,Coal Creek,GA,None,41,36,13.89%
+913,AL,AK,WSJ,San Juan,San Juan /Uganik/,GA,None,39,13,200.00%
+915,AL,AK,KOY,Olga Bay,Olga Bay,GA,None,38,13,192.31%
+919,AL,AK,GSZ,Granite Mountain,Granite Mountain AS,GA,None,37,38,-2.63%
+927,AL,AK,KXA,Kasaan,Kasaan,GA,None,33,85,-61.18%
+931,AL,AK,KKB,Kitoi Bay,Kitoi Bay,GA,None,32,43,-25.58%
+951,AL,AK,SXQ,Soldotna,Soldotna,GA,None,28,39,-28.21%
+957,AL,AK,KPB,Point Baker,Point Baker,GA,None,26,23,13.04%
+975,AL,AK,HYG,Hydaburg,Hydaburg,GA,None,23,16,43.75%
+977,AL,AK,ZNC,Nyac,Nyac,GA,None,23,25,-8.00%
+984,AL,AK,KMY,Moser Bay,Moser Bay,GA,None,21,17,23.53%
+987,AL,AK,SYA,Shemya,Eareckson AS,GA,None,21,0,0.00%
+988,AL,AK,2K5,Telida,Telida,GA,None,20,9,122.22%
+998,AL,AK,2AK,Lime Village,Lime Village,GA,None,18,27,-33.33%
+1005,AL,AK,WCR,Chandalar,Chandalar Lake,GA,None,18,14,28.57%
+1006,AL,AK,5NK,Naknek,Naknek,GA,None,17,38,-55.26%
+1017,AL,AK,KPR,Port Williams,Port Williams,GA,None,16,38,-57.89%
+1018,AL,AK,KPY,Port Bailey,Port Bailey,GA,None,16,16,0.00%
+1022,AL,AK,2AK6,Hogatza,Hog River,GA,None,15,21,-28.57%
+1034,AL,AK,AK75,Candle,Candle 2,GA,None,14,20,-30.00%
+1035,AL,AK,CKX,Chicken,Chicken,GA,None,14,16,-12.50%
+1049,AL,AK,CEM,Central,Central,GA,None,12,13,-7.69%
+1064,AL,AK,5AK0,Trading Bay,Trading Bay Production,GA,None,11,19,-42.11%
+1092,AL,AK,INR,McKinley Park,McKinley National Park,GA,None,9,0,0.00%
+1103,AL,AK,IYS,Wasilla,Wasilla,GA,None,8,17,-52.94%
+1151,AL,AK,57A,Tokeen,Tokeen,GA,None,5,2,150.00%
+1159,AL,AK,FLT,Flat,Flat,GA,None,5,0,0.00%
+1164,AL,AK,JLA,Cooper Landing,Quartz Creek,GA,None,5,0,0.00%
+1177,AL,AK,8KA,Tatitna,Tatitna,GA,None,4,0,0.00%
+1188,AL,AK,ENN,Nenana,Nenana Municipal,GA,None,4,26,-84.62%
+1264,AL,AK,6AK,Rainy Pass,Rainy Pass Lodge,GA,None,2,0,0.00%
+1297,AL,AK,KKL,Karluk Lake,Karluk Lake,GA,None,2,0,0.00%
+1319,AL,AK,SVW,Sparrevohn,Sparrevohn LRRS,GA,None,2,0,0.00%
+1326,AL,AK,37AK,Big Mountain Radio Relay Site (U.S. Air Force),Big Mountain,GA,None,1,0,0.00%
+1329,AL,AK,78K,Yes Bay,Yes Bay Lodge,GA,None,1,0,0.00%
+1350,AL,AK,KKU,Ekuk,Ekuk,GA,None,1,0,0.00%
+82,SO,AL,BHM,Birmingham,Birmingham-Shuttlesworth International,P,S,"1,333,967","1,304,467",2.26%
+122,SO,AL,HSV,Huntsville,Huntsville International-Carl T Jones Field,P,S,"519,003","527,801",-1.67%
+162,SO,AL,MOB,Mobile,Mobile Regional,P,N,"288,222","288,209",0.00%
+199,SO,AL,MGM,Montgomery,Montgomery Regional (Dannelly Field),P,N,"152,773","173,210",-11.80%
+282,SO,AL,DHN,Dothan,Dothan Regional,P,N,"47,304","49,411",-4.26%
+439,SO,AL,MSL,Muscle Shoals,Northwest Alabama Regional,CS,None,"6,490","5,295",22.57%
+563,SO,AL,TCL,Tuscaloosa,Tuscaloosa Regional,GA,None,"2,388","2,081",14.75%
+654,SO,AL,BFM,Mobile,Mobile Downtown,GA,None,947,"1,152",-17.80%
+666,SO,AL,ANB,Anniston,Anniston Regional,GA,None,834,"1,396",-40.26%
+754,SO,AL,AUO,Auburn,Auburn University Regional,GA,None,310,591,-47.55%
+912,SO,AL,JKA,Gulf Shores,Jack Edwards National,GA,None,39,7,457.14%
+970,SO,AL,09A,Butler,Butler-Choctaw County,GA,None,23,0,0.00%
+1036,SO,AL,DCU,Decatur,Pryor Field Regional,GA,None,14,6,133.33%
+1155,SO,AL,CQF,Fairhope,H. L. (Sonny) Callahan,GA,None,5,2,150.00%
+1301,SO,AL,MDQ,Huntsville,Huntsville Executive Airport Tom Sharp Jr Field,GA,None,2,8,-75.00%
+91,SW,AR,LIT,Little Rock,Bill and Hillary Clinton National/Adams Field,P,S,"979,530","958,824",2.16%
+104,SW,AR,XNA,Bentonville,Northwest Arkansas Regional,P,S,"698,257","673,810",3.63%
+245,SW,AR,FSM,Fort Smith,Fort Smith Regional,P,N,"85,726","83,920",2.15%
+305,SW,AR,TXK,Texarkana,Texarkana Regional-Webb Field,P,N,"34,101","33,565",1.60%
+476,SW,AR,JBR,Jonesboro,Jonesboro Municipal,CS,None,"4,785","4,593",4.18%
+484,SW,AR,HRO,Harrison,Boone County,CS,None,"4,371","1,178",271.05%
+545,SW,AR,HOT,Hot Springs,Memorial Field,CS,None,"2,654","1,603",65.56%
+610,SW,AR,ELD,El Dorado,South Arkansas Regional at Goodwin Field,GA,None,"1,475","2,544",-42.02%
+733,SW,AR,FYV,Fayetteville,Drake Field,GA,None,382,"1,190",-67.90%
+945,SW,AR,ROG,Rogers,Rogers Executive - Carter Field,GA,None,29,26,11.54%
+1127,SW,AR,ASG,Springdale,Springdale Municipal,GA,None,6,0,0.00%
+1171,SW,AR,RUE,Russellville,Russellville Regional,GA,None,5,5,0.00%
+1220,SW,AR,ADF,Arkadelphia,Dexter B Florence Memorial Field,GA,None,3,0,0.00%
+1225,SW,AR,BPK,Mountain Home,Baxter County,GA,None,3,0,0.00%
+1247,SW,AR,SRC,Searcy,Searcy Municipal,GA,None,3,0,0.00%
+1314,SW,AR,SGT,Ulm,Stuttgart Municipal Carl Humphrey Field,GA,None,2,0,0.00%
+1327,SW,AR,3M9,Warren,Warren Municipal,GA,None,1,0,0.00%
+1330,SW,AR,7M5,Ozark,Ozark-Franklin County,GA,None,1,0,0.00%
+1337,SW,AR,BVX,Batesville,Batesville Regional,GA,None,1,0,0.00%
+1341,SW,AR,CRT,Crossett,Z M Jack Stell Field,GA,None,1,0,0.00%
+1352,SW,AR,LLQ,Monticello,Monticello Municipal/Ellis Field,GA,None,1,0,0.00%
+256,WP,AS,PPG,Pago Pago,Pago Pago International,P,N,"71,401","65,439",9.11%
+561,WP,AS,FAQ,Fitiuta,Fitiuta,GA,None,"2,406","2,887",-16.66%
+13,WP,AZ,PHX,Phoenix,Phoenix Sky Harbor International,P,L,"21,185,458","20,896,265",1.38%
+74,WP,AZ,TUS,Tucson,Tucson International,P,S,"1,669,928","1,594,594",4.72%
+103,WP,AZ,IWA,Mesa,Phoenix-Mesa Gateway,P,S,"704,247","705,731",-0.21%
+150,WP,AZ,GCN,Grand Canyon,Grand Canyon National Park,P,N,"336,255","319,206",5.34%
+171,WP,AZ,1G4,Peach Springs,Grand Canyon West,P,N,"258,038","128,739",100.43%
+211,WP,AZ,IFP,Bullhead City,Laughlin/Bullhead International,P,N,"129,949","109,334",18.86%
+252,WP,AZ,NYL,Yuma,Yuma MCAS/Yuma International,P,N,"79,564","74,742",6.45%
+257,WP,AZ,FLG,Flagstaff,Flagstaff Pulliam,P,N,"70,710","64,578",9.50%
+343,WP,AZ,PGA,Page,Page Municipal,P,N,"21,347","17,435",22.44%
+420,WP,AZ,1Z1,Whitmore,Grand Canyon Bar Ten Airstrip,GA,None,"7,983","7,825",2.02%
+448,WP,AZ,PRC,Prescott,Ernest A Love Field,CS,None,"5,888","3,451",70.62%
+472,WP,AZ,SOW,Show Low,Show Low Regional,CS,None,"4,917","4,139",18.80%
+599,WP,AZ,CHD,Chandler,Chandler Municipal,GA,None,"1,689",104,1524.04%
+653,WP,AZ,SDL,Scottsdale,Scottsdale,GA,None,953,828,15.10%
+740,WP,AZ,DMA,Tucson,Davis Monthan AFB,GA,None,362,565,-35.93%
+826,WP,AZ,FHU,Fort Huachuca,Sierra Vista Municipal-Libby AAF,GA,None,110,245,-55.10%
+859,WP,AZ,L41,Marble Canyon,Marble Canyon,GA,None,66,137,-51.82%
+865,WP,AZ,0V7,Kayenta,Kayenta,GA,None,62,142,-56.34%
+895,WP,AZ,GYR,Goodyear,Phoenix Goodyear,GA,None,45,22,104.55%
+1029,WP,AZ,MZJ,Pinal (County),Pinal Airpark,GA,None,15,5,200.00%
+1037,WP,AZ,HII,Lake Havasu City,Lake Havasu City,GA,None,14,7,100.00%
+1051,WP,AZ,DVT,Phoenix,Phoenix Deer Valley,GA,None,12,13,-7.69%
+1057,WP,AZ,L37,Peach Springs,Grand Canyon Caverns,GA,None,12,9,33.33%
+1060,WP,AZ,SEZ,Sedona,Sedona,GA,None,12,9,33.33%
+1077,WP,AZ,GEU,Glendale,Glendale Municipal,GA,None,10,10,0.00%
+1088,WP,AZ,AVQ,Marana,Marana Regional,GA,None,9,2,350.00%
+1114,WP,AZ,IGM,Kingman,Kingman,GA,None,7,23,-69.57%
+1132,WP,AZ,E25,Wickenburg,Wickenburg Municipal,GA,None,6,4,50.00%
+1229,WP,AZ,FFZ,Mesa,Falcon Field,GA,None,3,3,0.00%
+2,WP,CA,LAX,Los Angeles,Los Angeles International,P,L,"41,232,432","39,636,042",4.03%
+7,WP,CA,SFO,San Francisco International Airport,San Francisco International,P,L,"26,900,048","25,707,101",4.64%
+25,WP,CA,SAN,San Diego,San Diego International,P,L,"11,139,933","10,340,164",7.73%
+36,WP,CA,OAK,Oakland,Metropolitan Oakland International,P,M,"6,413,842","5,934,639",8.07%
+37,WP,CA,SJC,San Jose,Norman Y Mineta San Jose International,P,M,"6,130,878","5,321,603",15.21%
+41,WP,CA,SMF,Sacramento,Sacramento International,P,M,"5,341,595","4,969,366",7.49%
+42,WP,CA,SNA,Santa Ana,John Wayne Airport-Orange County,P,M,"5,082,716","5,217,242",-2.58%
+58,WP,CA,BUR,Burbank,Bob Hope,P,M,"2,402,106","2,077,892",15.60%
+60,WP,CA,ONT,Ontario,Ontario International,P,M,"2,247,645","2,104,625",6.80%
+67,WP,CA,LGB,Long Beach,Long Beach /Daugherty Field/,P,S,"1,830,745","1,386,357",32.05%
+87,WP,CA,PSP,Palm Springs,Palm Springs International,P,S,"1,055,970","995,801",6.04%
+102,WP,CA,FAT,Fresno,Fresno Yosemite International,P,S,"755,140","761,298",-0.81%
+145,WP,CA,SBA,Santa Barbara,Santa Barbara Municipal,P,N,"356,608","329,751",8.14%
+185,WP,CA,SBP,San Luis Obispo,San Luis County Regional,P,N,"197,594","162,719",21.43%
+186,WP,CA,MRY,Monterey,Monterey Regional,P,N,"197,099","192,136",2.58%
+189,WP,CA,STS,Santa Rosa,Charles M Schulz - Sonoma County,P,N,"195,296","167,151",16.84%
+232,WP,CA,BFL,Bakersfield,Meadows Field,P,N,"99,472","100,433",-0.96%
+236,WP,CA,SCK,Stockton,Stockton Metropolitan,P,N,"96,201","93,076",3.36%
+262,WP,CA,ACV,Arcata,California Redwood Coast-Humboldt County,P,N,"65,932","69,732",-5.45%
+288,WP,CA,RDD,Redding,Redding Municipal,P,N,"42,361","43,414",-2.43%
+329,WP,CA,SMX,Santa Maria,Santa Maria Public/Capt G Allan Hancock Field,P,N,"24,527","40,120",-38.87%
+342,WP,CA,MMH,Mammoth Lakes,Mammoth Yosemite,P,N,"21,352","21,826",-2.17%
+375,WP,CA,CCR,Concord,Buchanan Field,P,N,"14,517",67,21567.16%
+351,WP,CA,VCV,Victorville,Southern California Logistics,GA,None,"19,337","17,538",10.26%
+358,WP,CA,RIV,Riverside,March ARB,GA,None,"18,279","14,719",24.19%
+381,WP,CA,TRK,Truckee,Truckee-Tahoe,GA,None,"12,792","10,385",23.18%
+416,WP,CA,MCE,Merced,Merced Regional/Macready Field,CS,None,"8,318","9,426",-11.75%
+434,WP,CA,CEC,Crescent City,Jack McNamara Field,CS,None,"6,802","8,667",-21.52%
+444,WP,CA,IPL,Imperial,Imperial County,CS,None,"6,136","4,136",48.36%
+447,WP,CA,CRQ,Carlsbad,McClellan-Palomar,CS,None,"5,931",180,3195.00%
+588,WP,CA,NKX,San Diego,Miramar MCAS (Joe Foss Field),GA,None,"1,860","1,968",-5.49%
+617,WP,CA,VNY,Van Nuys,Van Nuys,GA,None,"1,404",467,200.64%
+643,WP,CA,NTD,Point Mugu,Point Mugu NAS,GA,None,"1,045",842,24.11%
+652,WP,CA,SUU,Fairfield,Travis AFB,GA,None,963,"1,475",-34.71%
+709,WP,CA,NJK,El Centro,El Centro NAF,GA,None,551,465,18.49%
+723,WP,CA,IYK,Inyokern,Inyokern,GA,None,444,0,0.00%
+743,WP,CA,NZY,San Diego,North Island NAS /Halsey Field/,GA,None,349,315,10.79%
+761,WP,CA,APC,Napa,Napa County,GA,None,283,87,225.29%
+769,WP,CA,SLI,Los Alamitos,Los Alamitos AAF,GA,None,265,0,0.00%
+796,WP,CA,NLC,Lemoore,Lemoore NAS (Reeves Field),GA,None,162,0,0.00%
+816,WP,CA,SMO,Santa Monica,Santa Monica Municipal,GA,None,123,57,115.79%
+817,WP,CA,TRM,Palm Springs,Jacqueline Cochran Regional,GA,None,123,39,215.38%
+840,WP,CA,SDM,San Diego,Brown Field Municipal,GA,None,83,48,72.92%
+887,WP,CA,EDW,Edwards,Edwards AFB,GA,None,51,80,-36.25%
+909,WP,CA,GOO,Grass Valley,Nevada County,GA,None,40,35,14.29%
+914,WP,CA,CMA,Camarillo,Camarillo,GA,None,38,15,153.33%
+923,WP,CA,MOD,Modesto,Modesto City County-Harry Sham Field,GA,None,35,85,-58.82%
+946,WP,CA,SAC,Sacramento,Sacramento Executive,GA,None,29,32,-9.38%
+955,WP,CA,MHR,Sacramento,Sacramento Mather,GA,None,27,460,-94.13%
+959,WP,CA,TVL,South Lake Tahoe,Lake Tahoe,GA,None,26,12,116.67%
+972,WP,CA,CNO,Chino,Chino,GA,None,23,25,-8.00%
+983,WP,CA,F70,Riverside (County),French Valley,GA,None,21,17,23.53%
+992,WP,CA,SBD,San Bernardino,San Bernardino International,GA,None,20,18,11.11%
+1027,WP,CA,MCC,Sacramento,McClellan Airfield,GA,None,15,4,275.00%
+1040,WP,CA,PRB,Paso Robles,Paso Robles Municipal,GA,None,14,19,-26.32%
+1045,WP,CA,NUQ,Mountain View,Moffett Federal Airfield,GA,None,13,46,-71.74%
+1054,WP,CA,HHR,Hawthorne,Jack Northrop Field/Hawthorne Municipal,GA,None,12,9,33.33%
+1061,WP,CA,TOA,Torrance,Zamperini Field,GA,None,12,0,0.00%
+1071,WP,CA,SEE,San Diego,Gillespie Field,GA,None,11,25,-56.00%
+1079,WP,CA,HWD,Hayward,Hayward Executive,GA,None,10,9,11.11%
+1081,WP,CA,OXR,Oxnard,Oxnard,GA,None,10,8,25.00%
+1108,WP,CA,RAL,Riverside,Riverside Municipal,GA,None,8,4,100.00%
+1138,WP,CA,L08,Borrego Springs,Borrego Valley,GA,None,6,0,0.00%
+1144,WP,CA,PAO,Palo Alto,Palo Alto,GA,None,6,3,100.00%
+1208,WP,CA,SQL,San Carlos,San Carlos,GA,None,4,0,0.00%
+1219,WP,CA,A30,Fort Jones,Scott Valley,GA,None,3,0,0.00%
+1235,WP,CA,MHV,Mojave,Mojave Air and Space Port,GA,None,3,0,0.00%
+1249,WP,CA,UDD,Palm Springs,Bermuda Dunes,GA,None,3,3,0.00%
+1252,WP,CA,VIS,Visalia,Visalia Municipal,GA,None,3,86,-96.51%
+1259,WP,CA,2O1,Quincy,Gansner Field,GA,None,2,0,0.00%
+1292,WP,CA,HJO,Hanford,Hanford Municipal,GA,None,2,2,0.00%
+1299,WP,CA,LVK,Livermore,Livermore Municipal,GA,None,2,2,0.00%
+1315,WP,CA,SIY,Montague,Siskiyou County,GA,None,2,2,0.00%
+1334,WP,CA,BIH,Bishop,Bishop,GA,None,1,0,0.00%
+1342,WP,CA,CVH,Hollister,Hollister Municipal,GA,None,1,3,-66.67%
+1349,WP,CA,JAQ,Jackson,Westover Field Amador County,GA,None,1,0,0.00%
+1359,WP,CA,WVI,Watsonville,Watsonville Municipal,GA,None,1,0,0.00%
+9999,WP,CA,CIC,Chico,Chico Municipal,GA,None,0,0,0.00%
+5,NM,CO,DEN,Denver,Denver International,P,L,"29,809,097","28,267,394",5.45%
+99,NM,CO,COS,Colorado Springs,City of Colorado Springs Municipal,P,S,"815,839","657,694",24.05%
+173,NM,CO,ASE,Aspen,Aspen-Pitkin County/Sardy Field,P,N,"244,808","254,392",-3.77%
+177,NM,CO,GJT,Grand Junction,Grand Junction Regional,P,N,"223,452","218,319",2.35%
+191,NM,CO,DRO,Durango,Durango-La Plata County,P,N,"186,917","187,789",-0.46%
+197,NM,CO,EGE,Eagle,Eagle County Regional,P,N,"154,577","163,840",-5.65%
+215,NM,CO,MTJ,Montrose,Montrose Regional,P,N,"123,206","116,272",5.96%
+235,NM,CO,HDN,Hayden,Yampa Valley,P,N,"96,403","107,339",-10.19%
+310,NM,CO,GUC,Gunnison,Gunnison-Crested Butte Regional,P,N,"32,250","34,979",-7.80%
+421,NM,CO,CEZ,Cortez,Cortez Municipal,CS,None,"7,890","4,564",72.87%
+438,NM,CO,ALS,Alamosa,San Luis Valley Regional/Bergman Field,CS,None,"6,494","3,863",68.11%
+501,NM,CO,PUB,Pueblo,Pueblo Memorial,CS,None,"3,833","2,377",61.25%
+527,NM,CO,FNL,Loveland,Northern Colorado Regional,GA,None,"3,198","4,559",-29.85%
+562,NM,CO,TEX,Telluride,Telluride Regional,GA,None,"2,392",133,1698.50%
+749,NM,CO,APA,Englewood,Centennial,GA,None,338,347,-2.59%
+752,NM,CO,BJC,Broomfield,Rocky Mountain Metropolitan,GA,None,331,556,-40.47%
+809,NM,CO,RIL,Rifle,Rifle Garfield County,GA,None,131,27,385.19%
+1182,NM,CO,BKF,Aurora,Buckley AFB,GA,None,4,0,0.00%
+1267,NM,CO,AEJ,Buena Vista,Central Colorado Regional,GA,None,2,2,0.00%
+1291,NM,CO,GXY,Greeley,Greeley-Weld County,GA,None,2,21,-90.48%
+53,NE,CT,BDL,Windsor Locks,Bradley International,P,M,"3,164,647","2,982,194",6.12%
+317,NE,CT,HVN,New Haven,Tweed-New Haven,P,N,"28,669","27,911",2.72%
+660,NE,CT,DXR,Danbury,Danbury Municipal,GA,None,885,858,3.15%
+807,NE,CT,OXC,Oxford,Waterbury-Oxford,GA,None,132,87,51.72%
+815,NE,CT,BDR,Bridgeport,Igor I Sikorsky Memorial,GA,None,124,141,-12.06%
+930,NE,CT,GON,Groton,Groton-New London,GA,None,32,84,-61.90%
+980,NE,CT,HFD,Hartford,Hartford-Brainard,GA,None,22,53,-58.49%
+1122,NE,CT,4B8,Plainville,Robertson Field,GA,None,6,8,-25.00%
+1140,NE,CT,MMK,Meriden,Meriden Markham Municipal,GA,None,6,10,-40.00%
+1316,NE,CT,SNC,Chester,Chester,GA,None,2,2,0.00%
+675,EA,DE,DOV,Dover,Dover AFB,GA,None,792,463,71.06%
+726,EA,DE,ILG,Wilmington,New Castle,GA,None,434,"1,043",-58.39%
+1091,EA,DE,GED,Georgetown,Delaware Coastal,GA,None,9,21,-57.14%
+12,SO,FL,MCO,Orlando,Orlando International,P,L,"21,565,448","20,283,541",6.32%
+14,SO,FL,MIA,Miami,Miami International,P,L,"20,709,225","20,875,813",-0.80%
+19,SO,FL,FLL,Fort Lauderdale,Fort Lauderdale/Hollywood International,P,L,"15,817,043","14,263,270",10.89%
+29,SO,FL,TPA,Tampa,Tampa International,P,L,"9,548,580","9,194,994",3.85%
+45,SO,FL,RSW,Fort Myers,Southwest Florida International,P,M,"4,364,224","4,239,261",2.95%
+54,SO,FL,PBI,West Palm Beach,Palm Beach International,P,M,"3,110,450","3,100,624",0.32%
+55,SO,FL,JAX,Jacksonville,Jacksonville International,P,M,"2,701,861","2,729,129",-1.00%
+78,SO,FL,SFB,Sanford,Orlando Sanford International,P,S,"1,434,990","1,341,699",6.95%
+89,SO,FL,PIE,Clearwater,St Pete-Clearwater International,P,S,"1,023,471","915,672",11.77%
+98,SO,FL,PNS,Pensacola,Pensacola International,P,S,"839,248","792,916",5.84%
+108,SO,FL,PGD,Punta Gorda,Punta Gorda,P,S,"643,563","558,482",15.23%
+113,SO,FL,SRQ,Sarasota,Sarasota/Bradenton International,P,S,"590,941","589,860",0.18%
+117,SO,FL,VPS,Valparaiso,Eglin AFB/Destin-Ft Walton Beach,P,S,"567,633","440,002",29.01%
+130,SO,FL,ECP,Panama City,Northwest Florida Beaches International,P,S,"454,712","434,302",4.70%
+137,SO,FL,EYW,Key West,Key West International,P,N,"392,381","380,505",3.12%
+146,SO,FL,TLH,Tallahassee,Tallahassee International,P,N,"350,174","345,404",1.38%
+147,SO,FL,DAB,Daytona Beach,Daytona Beach International,P,N,"346,470","342,495",1.16%
+178,SO,FL,MLB,Melbourne,Melbourne International,P,N,"221,928","220,360",0.71%
+180,SO,FL,GNV,Gainesville,Gainesville Regional,P,N,"218,578","206,330",5.94%
+388,SO,FL,SGJ,Saint Augustine,Northeast Florida Regional,P,N,"11,431","28,462",-59.84%
+376,SO,FL,NIP,Jacksonville,Jacksonville NAS (Towers Field),GA,None,"14,305","6,598",116.81%
+407,SO,FL,VRB,Vero Beach,Vero Beach Regional,CS,None,"9,110","4,581",98.86%
+587,SO,FL,HRT,Mary Esther,Hurlburt Field,GA,None,"1,886","2,161",-12.73%
+651,SO,FL,PAM,Panama City,Tyndall AFB,GA,None,968,623,55.38%
+667,SO,FL,OPF,Miami,Miami-Opa Locka Executive,GA,None,828,"1,250",-33.76%
+687,SO,FL,NQX,Key West,Key West NAS /Boca Chica Field/,GA,None,662,813,-18.57%
+715,SO,FL,APF,Naples,Naples Municipal,GA,None,505,"1,337",-62.23%
+716,SO,FL,FXE,Fort Lauderdale,Fort Lauderdale Executive,GA,None,490,317,54.57%
+717,SO,FL,COF,Cocoa Beach,Patrick AFB,GA,None,476,458,3.93%
+766,SO,FL,MCF,Tampa,MacDill AFB,GA,None,268,305,-12.13%
+774,SO,FL,BCT,Boca Raton,Boca Raton,GA,None,246,323,-23.84%
+776,SO,FL,LAL,Lakeland,Lakeland Linder Regional,GA,None,239,223,7.17%
+787,SO,FL,ORL,Orlando,Executive,GA,None,175,114,53.51%
+806,SO,FL,NPA,Pensacola,Pensacola NAS/Forrest Sherman Field,GA,None,132,632,-79.11%
+819,SO,FL,TMB,Miami,Miami Executive,GA,None,119,245,-51.43%
+830,SO,FL,HST,Homestead,Homestead ARB,GA,None,103,327,-68.50%
+842,SO,FL,SUA,Stuart,Witham Field,GA,None,81,289,-71.97%
+846,SO,FL,FPR,Fort Pierce,Treasure Coast International,GA,None,73,25,192.00%
+860,SO,FL,FMY,Fort Myers,Page Field,GA,None,65,58,12.07%
+874,SO,FL,DTS,Destin,Destin Executive,GA,None,58,23,152.17%
+922,SO,FL,ISM,Kissimmee,Kissimmee Gateway,GA,None,35,39,-10.26%
+965,SO,FL,CEW,Crestview,Bob Sikes,GA,None,24,0,0.00%
+976,SO,FL,VNC,Venice,Venice Municipal,GA,None,23,26,-11.54%
+1002,SO,FL,F45,West Palm Beach,North Palm Beach County General Aviation,GA,None,18,0,0.00%
+1021,SO,FL,OCF,Ocala,Ocala International-Jim Taylor Field,GA,None,16,103,-84.47%
+1044,SO,FL,LEE,Leesburg,Leesburg International,GA,None,13,23,-43.48%
+1059,SO,FL,MTH,Marathon,The Florida Keys Marathon International,GA,None,12,28,-57.14%
+1085,SO,FL,07FA,Key Largo,Ocean Reef Club,GA,None,9,25,-64.00%
+1089,SO,FL,BKV,Brooksville,Brooksville-Tampa Bay Regional,GA,None,9,9,0.00%
+1161,SO,FL,GIF,Winter Haven,Winter Haven's Gilbert,GA,None,5,5,0.00%
+1183,SO,FL,BOW,Bartow,Bartow Municipal,GA,None,4,4,0.00%
+1191,SO,FL,FHB,Fernandina Beach,Fernandina Beach Municipal,GA,None,4,8,-50.00%
+1250,SO,FL,VDF,Tampa,Tampa Executive,GA,None,3,0,0.00%
+1286,SO,FL,FIN,Bunnell,Flagler Executive,GA,None,2,0,0.00%
+1298,SO,FL,LCQ,Lake City,Lake City Gateway,GA,None,2,2,0.00%
+1320,SO,FL,TIX,Titusville,Space Coast Regional,GA,None,2,18,-88.89%
+1346,SO,FL,FA54,Placida,Coral Creek,GA,None,1,0,0.00%
+1,SO,GA,ATL,Atlanta,Hartsfield - Jackson Atlanta International,P,L,"50,251,964","50,501,858",-0.49%
+85,SO,GA,SAV,Savannah,Savannah/Hilton Head International,P,S,"1,192,340","1,056,265",12.88%
+161,SO,GA,AGS,Augusta,Augusta Regional at Bush Field,P,N,"288,834","270,797",6.66%
+277,SO,GA,CSG,Columbus,Columbus,P,N,"49,773","44,813",11.07%
+286,SO,GA,VLD,Valdosta,Valdosta Regional,P,N,"43,738","40,275",8.60%
+298,SO,GA,ABY,Albany,Southwest Georgia Regional,P,N,"37,920","34,226",10.79%
+300,SO,GA,BQK,Brunswick,Brunswick Golden Isles,P,N,"36,433","36,054",1.05%
+400,SO,GA,SVN,Savannah,Hunter AAF,GA,None,"10,591","6,316",67.69%
+474,SO,GA,MCN,Macon,Middle Georgia Regional,GA,None,"4,857",860,464.77%
+525,SO,GA,PDK,Atlanta,Dekalb-Peachtree,CS,None,"3,259",472,590.47%
+637,SO,GA,AHN,Athens,Athens/Ben Epps,GA,None,"1,161","1,433",-18.98%
+673,SO,GA,WRB,Warner Robins,Robins AFB,GA,None,799,666,19.97%
+683,SO,GA,LSF,Fort Benning (U.S. Army),Lawson AAF (Fort Benning),GA,None,701,"1,727",-59.41%
+711,SO,GA,VAD,Valdosta,Moody AFB,GA,None,522,274,90.51%
+721,SO,GA,MGE,Marietta,Dobbins Air Reserve Base,GA,None,468,30,1460.00%
+854,SO,GA,SSI,Brunswick,McKinnon St Simons Island,GA,None,67,41,63.41%
+926,SO,GA,FTY,Atlanta,Fulton County Airport-Brown Field,GA,None,33,58,-43.10%
+1009,SO,GA,TVI,Thomasville,Thomasville Regional,GA,None,17,6,183.33%
+1053,SO,GA,FFC,Peachtree City,Atlanta Regional Falcon Field,GA,None,12,1,1100.00%
+1101,SO,GA,DNL,Augusta,Daniel Field,GA,None,8,12,-33.33%
+1134,SO,GA,GA2,Williamson,Alexander Memorial,GA,None,6,0,0.00%
+1153,SO,GA,BGE,Bainbridge,Decatur County Industrial Air Park,GA,None,5,4,25.00%
+1157,SO,GA,EBA,Elberton,Elbert County-Patz Field,GA,None,5,0,0.00%
+1169,SO,GA,RMG,Rome,Richard B Russell Regional - J H Towers Field,GA,None,5,5,0.00%
+1223,SO,GA,AYS,Waycross,Waycross-Ware County,GA,None,3,9,-66.67%
+1263,SO,GA,3J7,Greensboro,Greene County Regional,GA,None,2,28,-92.86%
+1300,SO,GA,LZU,Lawrenceville,Gwinnett County - Briscoe Field,GA,None,2,2,0.00%
+1310,SO,GA,PUJ,Dallas,Paulding Northwest Atlanta,GA,None,2,2,0.00%
+1311,SO,GA,RYY,Marietta,Cobb County International-McCollum Field,GA,None,2,63,-96.83%
+1351,SO,GA,LGC,La Grange,La Grange-Callaway,GA,None,1,4,-75.00%
+1355,SO,GA,MUL,Moultrie,Spence,GA,None,1,0,0.00%
+75,WP,GU,GUM,Tamuning,Guam International,P,S,"1,566,429","1,444,299",8.46%
+623,WP,GU,UAM,"Andersen,Mariana Island",Andersen AFB,GA,None,"1,368","2,711",-49.54%
+28,WP,HI,HNL,Honolulu,Daniel K Inouye International,P,L,"9,743,989","9,656,340",0.91%
+51,WP,HI,OGG,Kahului,Kahului,P,M,"3,442,189","3,352,813",2.67%
+70,WP,HI,KOA,Kailua Kona,Ellison Onizuka Kona International at Keahole,P,S,"1,764,995","1,569,602",12.45%
+76,WP,HI,LIH,Lihue,Lihue,P,S,"1,535,075","1,458,940",5.22%
+106,WP,HI,ITO,Hilo,Hilo International,P,S,"664,790","640,757",3.75%
+248,WP,HI,MKK,Kaunakakai,Molokai,P,N,"84,139","92,560",-9.10%
+297,WP,HI,LNY,Lanai City,Lanai,P,N,"37,993","43,275",-12.21%
+301,WP,HI,JHM,Lahaina,Kapalua,GA,None,"35,760","30,131",18.68%
+456,WP,HI,LUP,Kalaupapa,Kalaupapa,CS,None,"5,598","6,119",-8.51%
+483,WP,HI,MUE,Kamuela,Waimea-Kohala,CS,None,"4,407","4,445",-0.85%
+533,WP,HI,HNM,Hana,Hana,CS,None,"2,967","2,211",34.19%
+83,CE,IA,DSM,Des Moines,Des Moines International,P,S,"1,257,521","1,216,357",3.38%
+116,CE,IA,CID,Cedar Rapids,The Eastern Iowa,P,S,"574,636","547,786",4.90%
+291,CE,IA,SUX,Sioux City,Sioux Gateway/Col Bud Day Field,P,N,"41,787","36,413",14.76%
+293,CE,IA,DBQ,Dubuque,Dubuque Regional,P,N,"40,324","37,954",6.24%
+321,CE,IA,ALO,Waterloo,Waterloo Regional,P,N,"27,358","27,069",1.07%
+424,CE,IA,BRL,Burlington,Southeast Iowa Regional,CS,None,"7,759","7,086",9.50%
+426,CE,IA,MCW,Mason City,Mason City Municipal,CS,None,"7,502","7,734",-3.00%
+432,CE,IA,FOD,Fort Dodge,Fort Dodge Regional,CS,None,"7,140","7,271",-1.80%
+605,CE,IA,IOW,Iowa City,Iowa City Municipal,GA,None,"1,559","1,576",-1.08%
+698,CE,IA,AMW,Ames,Ames Municipal,GA,None,607,378,60.58%
+758,CE,IA,CIN,Carroll,Arthur N Neu,GA,None,300,200,50.00%
+829,CE,IA,IKV,Ankeny,Ankeny Regional,GA,None,105,16,556.25%
+906,CE,IA,SPW,Spencer,Spencer Municipal,GA,None,41,3,1266.67%
+973,CE,IA,EST,Estherville,Estherville Municipal,GA,None,23,0,0.00%
+1167,CE,IA,MIW,Marshalltown,Marshalltown Municipal,GA,None,5,0,0.00%
+1168,CE,IA,PEA,Pella,Pella Municipal,GA,None,5,0,0.00%
+1203,CE,IA,RDK,Red Oak,Red Oak Municipal,GA,None,4,0,0.00%
+1273,CE,IA,CBF,Council Bluffs,Council Bluffs Municipal,GA,None,2,2,0.00%
+1348,CE,IA,GGI,Grinnell,Grinnell Regional,GA,None,1,1,0.00%
+69,NM,ID,BOI,Boise,Boise Air Terminal/Gowen Field,P,S,"1,777,642","1,633,507",8.82%
+201,NM,ID,IDA,Idaho Falls,Idaho Falls Regional,P,N,"147,729","146,213",1.04%
+244,NM,ID,SUN,Hailey,Friedman Memorial,P,N,"86,641","77,729",11.47%
+253,NM,ID,LWS,Lewiston,Lewiston-Nez Perce County,P,N,"76,729","72,724",5.51%
+285,NM,ID,TWF,Twin Falls,Joslin Field - Magic Valley Regional,P,N,"45,736","38,869",17.67%
+294,NM,ID,PIH,Arbon Valley,Pocatello Regional,P,N,"40,188","34,462",16.62%
+736,NM,ID,MUO,Mountain Home,Mountain Home AFB,GA,None,376,682,-44.87%
+795,NM,ID,SMN,Salmon,Lemhi County,GA,None,163,179,-8.94%
+841,NM,ID,65S,Bonners Ferry,Boundary County,GA,None,82,101,-18.81%
+934,NM,ID,COE,Hayden Lake,Coeur D'Alene - Pappy Boyington Field,GA,None,31,48,-35.42%
+1016,NM,ID,GIC,Grangeville,Idaho County,GA,None,16,0,0.00%
+1065,NM,ID,DIJ,Driggs,Driggs-Reed Memorial,GA,None,11,18,-38.89%
+1172,NM,ID,S68,Orofino,Orofino Municipal,GA,None,5,0,0.00%
+1204,NM,ID,S72,Saint Maries,St Maries Municipal,GA,None,4,4,0.00%
+1248,NM,ID,SZT,Sandpoint,Sandpoint,GA,None,3,2,50.00%
+1257,NM,ID,1U1,Moose Creek Ranger Station,Moose Creek /USFS/,GA,None,2,0,0.00%
+3,GL,IL,ORD,Chicago,Chicago O'Hare International,P,L,"38,593,028","37,589,899",2.67%
+27,GL,IL,MDW,Chicago,Chicago Midway International,P,L,"10,912,074","11,044,387",-1.20%
+151,GL,IL,MLI,Moline,Quad City International,P,N,"335,940","364,393",-7.81%
+157,GL,IL,PIA,Peoria,General Downing - Peoria International,P,N,"312,378","307,189",1.69%
+193,GL,IL,BMI,Bloomington-Normal Airport,Central IL Regional Airport at Bloomington-Normal,P,N,"163,475","188,490",-13.27%
+214,GL,IL,BLV,Belleville,Scott AFB/Midamerica,P,N,"123,841","79,988",54.82%
+221,GL,IL,RFD,Rockford,Chicago/Rockford International,P,N,"112,862","101,790",10.88%
+231,GL,IL,CMI,Savoy,University of Illinois-Willard,P,N,"100,133","89,318",12.11%
+239,GL,IL,SPI,Springfield,Abraham Lincoln Capital,P,N,"92,048","93,269",-1.31%
+394,GL,IL,MWA,Marion,Veterans Airport of Southern Illinois,P,N,"11,029","10,044",9.81%
+415,GL,IL,DEC,Decatur,Decatur,CS,None,"8,324","8,453",-1.53%
+425,GL,IL,UIN,Quincy,Quincy Regional-Baldwin Field,CS,None,"7,709","7,847",-1.76%
+485,GL,IL,CPS,Cahokia,St Louis Downtown,GA,None,"4,303","3,586",19.99%
+619,GL,IL,PWK,Wheeling,Chicago Executive,GA,None,"1,394",308,352.60%
+772,GL,IL,DPA,DuPage (County),Dupage,GA,None,255,124,105.65%
+773,GL,IL,GBG,Galesburg,Galesburg Municipal,GA,None,250,"1,215",-79.42%
+788,GL,IL,MTO,Mattoon,Coles County Memorial,GA,None,172,0,0.00%
+832,GL,IL,MQB,Macomb,Macomb Municipal,GA,None,100,66,51.52%
+837,GL,IL,RSV,Robinson,Crawford Co,GA,None,92,98,-6.12%
+870,GL,IL,I63,Mount Sterling,Mount Sterling Municipal,GA,None,59,76,-22.37%
+872,GL,IL,UGN,Waukegan,Waukegan National,GA,None,59,67,-11.94%
+935,GL,IL,LOT,Romeo (RR name for Romeoville),Lewis University,GA,None,31,21,47.62%
+943,GL,IL,DKB,De Kalb,De Kalb Taylor Municipal,GA,None,29,28,3.57%
+967,GL,IL,MDH,Carbondale,Southern Illinois,GA,None,24,291,-91.75%
+1056,GL,IL,IKK,Kankakee,Greater Kankakee,GA,None,12,4,200.00%
+1099,GL,IL,ARR,Aurora,Aurora Municipal,GA,None,8,0,0.00%
+46,GL,IN,IND,Indianapolis,Indianapolis International,P,M,"4,343,722","4,216,766",3.01%
+144,GL,IN,FWA,Fort Wayne,Fort Wayne International,P,N,"359,658","360,369",-0.20%
+159,GL,IN,SBN,South Bend,South Bend International,P,N,"307,471","329,957",-6.81%
+181,GL,IN,EVV,Evansville,Evansville Regional,P,N,"213,205","204,352",4.33%
+504,GL,IN,LAF,Lafayette,Purdue University,GA,None,"3,778","3,084",22.50%
+552,GL,IN,BMG,Bloomington,Monroe County,GA,None,"2,566","2,139",19.96%
+657,GL,IN,GYY,Gary,Gary/Chicago International,GA,None,909,889,2.25%
+735,GL,IN,HUF,Terre Haute,Terre Haute Regional,GA,None,377,501,-24.75%
+785,GL,IN,MIE,Muncie,Delaware County Regional,GA,None,188,482,-61.00%
+869,GL,IN,HNB,Huntingburg,Huntingburg,GA,None,59,6,883.33%
+893,GL,IN,C62,Kendallville,Kendallville Municipal,GA,None,48,121,-60.33%
+936,GL,IN,MQJ,McCordsville,Indianapolis Regional,GA,None,31,26,19.23%
+1047,GL,IN,TYQ,Zionsville,Indianapolis Executive,GA,None,13,10,30.00%
+1052,GL,IN,EKM,Elkhart,Elkhart Municipal,GA,None,12,15,-20.00%
+1087,GL,IN,ASW,Warsaw,Warsaw Municipal,GA,None,9,0,0.00%
+1106,GL,IN,OKK,Kokomo,Kokomo Municipal,GA,None,8,3,166.67%
+1116,GL,IN,MZZ,Marion,Marion Municipal,GA,None,7,3,133.33%
+1160,GL,IN,FRH,French Lick,French Lick Municipal,GA,None,5,0,0.00%
+1289,GL,IN,GGP,Logansport,Logansport/Cass County,GA,None,2,2,0.00%
+1312,GL,IN,RZL,Rensselaer,Jasper County,GA,None,2,0,0.00%
+100,CE,KS,ICT,Wichita,Wichita Dwight D Eisenhower National,P,S,"789,533","781,944",0.97%
+259,CE,KS,MHK,Manhattan,Manhattan Regional,P,N,"68,791","63,761",7.89%
+323,CE,KS,GCK,Garden City,Garden City Regional,P,N,"26,687","26,825",-0.51%
+377,CE,KS,SLN,Salina,Salina Regional,P,N,"13,850","3,967",249.13%
+406,CE,KS,HYS,Hays,Hays Regional,CS,None,"9,460","8,265",14.46%
+473,CE,KS,FOE,Topeka,Topeka Regional,CS,None,"4,901","6,051",-19.01%
+646,CE,KS,DDC,Dodge City,Dodge City Regional,GA,None,"1,003","1,793",-44.06%
+650,CE,KS,LBL,Liberal,Liberal Mid-America Regional,GA,None,994,"5,212",-80.93%
+779,CE,KS,IAB,Wichita,McConnell AFB,GA,None,216,0,0.00%
+783,CE,KS,IXD,Olathe,New Century Aircenter,GA,None,190,15,1166.67%
+871,CE,KS,LWC,Lawrence,Lawrence Municipal,GA,None,59,27,118.52%
+999,CE,KS,AAO,Wichita,Colonel James Jabara,GA,None,18,49,-63.27%
+1124,CE,KS,ADT,Atwood,Atwood-Rawlins County City-County,GA,None,6,0,0.00%
+1202,CE,KS,PTS,Pittsburg,Atkinson Municipal,GA,None,4,0,0.00%
+1206,CE,KS,SN33,Clay Center,Callaway Airpark,GA,None,4,0,0.00%
+1278,CE,KS,CNU,Chanute,Chanute Martin Johnson,GA,None,2,0,0.00%
+1354,CE,KS,MPR,McPherson,McPherson,GA,None,1,0,0.00%
+49,SO,KY,CVG,Greater Cincinnati International Airport,Cincinnati/Northern Kentucky International,P,M,"3,791,989","3,269,979",15.96%
+73,SO,KY,SDF,Louisville,Louisville International-Standiford Field,P,S,"1,684,738","1,631,494",3.26%
+109,SO,KY,LEX,Lexington,Blue Grass,P,S,"637,301","638,316",-0.16%
+347,SO,KY,PAH,Paducah,Barkley Regional,P,N,"20,910","20,266",3.18%
+350,SO,KY,OWB,Owensboro,Owensboro-Daviess County Regional,P,N,"19,578","23,537",-16.82%
+593,SO,KY,BWG,Bowling Green,Bowling Green-Warren County Regional,GA,None,"1,778","2,186",-18.66%
+596,SO,KY,HOP,Fort Campbell,Campbell AAF (Fort Campbell),GA,None,"1,740","5,124",-66.04%
+1019,SO,KY,LOZ,London,London-Corbin Airport-Magee Field,GA,None,16,1,1500.00%
+1026,SO,KY,EHR,Henderson,Henderson City-County,GA,None,15,0,0.00%
+1258,SO,KY,27K,Georgetown,Georgetown-Scott County Regional,GA,None,2,0,0.00%
+1274,SO,KY,CEY,Murray,Kyle-Oakley Field,GA,None,2,2,0.00%
+1347,SO,KY,FFT,Frankfort,Capital City,GA,None,1,3,-66.67%
+38,SW,LA,MSY,Metairie,Louis Armstrong New Orleans International,P,M,"6,022,318","5,569,705",8.13%
+139,SW,LA,BTR,Baton Rouge,"Baton Rouge Metropolitan, Ryan Field",P,N,"377,670","364,200",3.70%
+169,SW,LA,SHV,Shreveport,Shreveport Regional,P,N,"267,646","270,395",-1.02%
+183,SW,LA,LFT,Lafayette,Lafayette Regional/Paul Fournet Field,P,N,"202,640","206,667",-1.95%
+194,SW,LA,AEX,Alexandria,Alexandria International,P,N,"156,145","129,776",20.32%
+229,SW,LA,MLU,Monroe,Monroe Regional,P,N,"103,547","102,342",1.18%
+275,SW,LA,LCH,Lake Charles,Lake Charles Regional,P,N,"50,899","53,576",-5.00%
+611,SW,LA,BAD,Bossier City,Barksdale AFB,GA,None,"1,448","1,503",-3.66%
+753,SW,LA,65LA,Belle Chasse,Southern Seaplane,GA,None,325,250,30.00%
+767,SW,LA,NEW,New Orleans,Lakefront,GA,None,266,81,228.40%
+818,SW,LA,L31,Covington,St Tammany Regional,GA,None,120,0,0.00%
+835,SW,LA,CWF,Lake Charles,Chennault International,GA,None,94,238,-60.50%
+866,SW,LA,HUM,Houma,Houma-Terrebonne,GA,None,62,58,6.90%
+938,SW,LA,ASD,Slidell,Slidell,GA,None,30,0,0.00%
+964,SW,LA,RSN,Ruston,Ruston Regional,GA,None,25,20,25.00%
+989,SW,LA,ARA,New Iberia,Acadiana Regional,GA,None,20,40,-50.00%
+1082,SW,LA,PTN,Patterson,Harry P Williams Memorial,GA,None,10,0,0.00%
+1083,SW,LA,REG,Gonzales,Louisiana Regional,GA,None,10,0,0.00%
+1193,SW,LA,HDC,Hammond,Hammond Northshore Regional,GA,None,4,4,0.00%
+1209,SW,LA,TVR,Tallulah,Vicksburg Tallulah Regional,GA,None,4,4,0.00%
+16,NE,MA,BOS,Boston,General Edward Lawrence Logan International,P,L,"18,759,742","17,759,044",5.63%
+220,NE,MA,ACK,Nantucket,Nantucket Memorial,P,N,"113,009","126,197",-10.45%
+271,NE,MA,ORH,Worcester,Worcester Regional,P,N,"53,931","57,800",-6.69%
+278,NE,MA,MVY,Vineyard Haven,Martha's Vineyard,P,N,"49,767","54,084",-7.98%
+313,NE,MA,HYA,Hyannis,Barnstable Municipal-Boardman/Polando Field,P,N,"29,455","31,027",-5.07%
+395,NE,MA,BED,Bedford,Laurence G Hanscom Field,P,N,"10,956","15,105",-27.47%
+410,NE,MA,PVC,Provincetown,Provincetown Municipal,CS,None,"8,900","10,074",-11.65%
+446,NE,MA,EWB,New Bedford,New Bedford Regional,CS,None,"5,998","7,022",-14.58%
+633,NE,MA,BAF,Westfield,Westfield-Barnes Regional,GA,None,"1,209",729,65.84%
+671,NE,MA,CEF,Chicopee,Westover ARB/Metropolitan,GA,None,804,"1,479",-45.64%
+827,NE,MA,BVY,Beverly,Beverly Regional,GA,None,109,51,113.73%
+905,NE,MA,OWD,Norwood,Norwood Memorial,GA,None,41,53,-22.64%
+925,NE,MA,PYM,Plymouth,Plymouth Municipal,GA,None,34,10,240.00%
+950,NE,MA,PSF,Pittsfield,Pittsfield Municipal,GA,None,28,41,-31.71%
+962,NE,MA,CQX,Chatham,Chatham Municipal,GA,None,25,74,-66.22%
+981,NE,MA,1B2,Edgartown,Katama Airpark,GA,None,21,0,0.00%
+1008,NE,MA,LWM,Lawrence,Lawrence Municipal,GA,None,17,13,30.77%
+1023,NE,MA,AQW,North Adams,Harriman-And-West,GA,None,15,15,0.00%
+1078,NE,MA,GHG,Marshfield,Marshfield Municipal - George Harlow Field,GA,None,10,2,400.00%
+1254,NE,MA,0B5,Montague,Turners Falls,GA,None,2,32,-93.75%
+22,EA,MD,BWI,Glen Burnie,Baltimore/Washington International Thurgood Marshall,P,L,"12,976,554","12,340,972",5.15%
+268,EA,MD,SBY,Salisbury,Salisbury-Ocean City Wicomico Regional,P,N,"57,421","58,695",-2.17%
+326,EA,MD,HGR,Hagerstown,Hagerstown Regional-Richard A Henson Field,P,N,"25,584","27,274",-6.20%
+496,EA,MD,ADW,Camp Springs,Joint Base Andrews,GA,None,"3,903","3,038",28.47%
+823,EA,MD,NHK,Patuxent River Naval Air Test Center,Patuxent River NAS/Trapnell Field/,GA,None,111,53,109.43%
+896,EA,MD,FDK,Frederick,Frederick Municipal,GA,None,44,1,4300.00%
+916,EA,MD,MTN,Middle River,Martin State,GA,None,38,133,-71.43%
+918,EA,MD,GAI,Gaithersburg,Montgomery County Airpark,GA,None,37,56,-33.93%
+952,EA,MD,ESN,Easton,Easton/Newnam Field,GA,None,27,11,145.45%
+1125,EA,MD,ANP,Annapolis,Lee,GA,None,6,0,0.00%
+1185,EA,MD,DMW,Westminster,Carroll County Regional/Jack B Poage Field,GA,None,4,19,-78.95%
+1239,EA,MD,OXB,Ocean City,Ocean City Municipal,GA,None,3,2,50.00%
+1261,EA,MD,2W6,Leonardtown,St Mary's County Regional,GA,None,2,2,0.00%
+1324,EA,MD,W29,Stevensville,Bay Bridge,GA,None,2,0,0.00%
+96,NE,ME,PWM,Portland,Portland International Jetport,P,S,"925,903","886,343",4.46%
+160,NE,ME,BGR,Bangor,Bangor International,P,N,"302,224","269,013",12.35%
+368,NE,ME,RKD,Rockland,Knox County Regional,P,N,"16,092","16,206",-0.70%
+383,NE,ME,PQI,Presque Isle,Northern Maine Regional Airport at Presque Isle,P,N,"12,735","12,526",1.67%
+405,NE,ME,BHB,Bar Harbor,Hancock County-Bar Harbor,CS,None,"9,509","10,094",-5.80%
+460,NE,ME,AUG,Augusta,Augusta State,CS,None,"5,435","5,128",5.99%
+531,NE,ME,70B,Millinocket,Millinocket,GA,None,"3,000","3,000",0.00%
+739,NE,ME,93B,Stonington,Stonington Municipal,GA,None,370,380,-2.63%
+759,NE,ME,57B,Islesboro,Islesboro,GA,None,287,306,-6.21%
+847,NE,ME,IZG,Fryeburg,Eastern Slopes Regional,GA,None,73,34,114.71%
+897,NE,ME,LEW,Auburn,Auburn/Lewiston Municipal,GA,None,44,32,37.50%
+899,NE,ME,BST,Belfast,Belfast Municipal,GA,None,43,108,-60.19%
+929,NE,ME,BXM,Brunswick,Brunswick Executive,GA,None,32,21,52.38%
+1175,NE,ME,WVL,Waterville,Waterville Robert Lafleur,GA,None,5,13,-61.54%
+1176,NE,ME,0B1,Bethel,Bethel Regional,GA,None,4,27,-85.19%
+1205,NE,ME,SFM,Sanford,Sanford Seacoast Regional,GA,None,4,20,-80.00%
+1265,NE,ME,8B0,Rangeley,Steven A Bean Municipal,GA,None,2,2,0.00%
+1296,NE,ME,IWI,Wiscasset,Wiscasset,GA,None,2,10,-80.00%
+18,GL,MI,DTW,Detroit,Detroit Metropolitan Wayne County,P,L,"17,036,092","16,847,135",1.12%
+79,GL,MI,GRR,Grand Rapids,Gerald R Ford International,P,S,"1,412,132","1,334,979",5.78%
+136,GL,MI,FNT,Flint,Bishop International,P,N,"393,549","398,508",-1.24%
+175,GL,MI,TVC,Traverse City,Cherry Capital,P,N,"235,137","223,924",5.01%
+187,GL,MI,LAN,Clinton (Township of),Capital Region International,P,N,"196,617","161,863",21.47%
+203,GL,MI,AZO,Kalamazoo,Kalamazoo/Battle Creek International,P,N,"146,314","154,242",-5.14%
+223,GL,MI,MBS,Saginaw,MBS International,P,N,"110,964","122,469",-9.39%
+274,GL,MI,SAW,Gwinn,Sawyer International,P,N,"50,938","45,462",12.05%
+328,GL,MI,CMX,Hancock,Houghton County Memorial,P,N,"24,843","25,439",-2.34%
+330,GL,MI,PLN,Pellston,Pellston Regional Airport of Emmet County,P,N,"23,961","25,497",-6.02%
+339,GL,MI,CIU,Sault Ste. Marie,Chippewa County International,P,N,"22,261","20,974",6.14%
+360,GL,MI,IMT,Iron Mountain,Ford,P,N,"17,707","12,604",40.49%
+364,GL,MI,MKG,Muskegon,Muskegon County,P,N,"17,007","18,165",-6.37%
+365,GL,MI,ESC,Escanaba,Delta County,P,N,"16,781","16,822",-0.24%
+391,GL,MI,APN,Alpena,Alpena County Regional,P,N,"11,317","10,031",12.82%
+412,GL,MI,MGN,Harbor Springs,Harbor Springs,GA,None,"8,500","8,014",6.06%
+429,GL,MI,MBL,Manistee,Manistee Co-Blacker,GA,None,"7,325","4,243",72.64%
+461,GL,MI,IWD,Ironwood,Gogebic-Iron County,CS,None,"5,348","5,069",5.50%
+523,GL,MI,PTK,Pontiac,Oakland County International,GA,None,"3,266","3,409",-4.19%
+532,GL,MI,MCD,Mackinac Island,Mackinac Island,GA,None,"3,000","2,549",17.69%
+535,GL,MI,YIP,Detroit,Willow Run,GA,None,"2,938","4,093",-28.22%
+648,GL,MI,VLL,Troy,Oakland/Troy,GA,None,"1,000",853,17.23%
+655,GL,MI,GLR,Gaylord,Gaylord Regional,GA,None,925,975,-5.13%
+677,GL,MI,CVX,Charlevoix,Charlevoix Municipal,GA,None,771,750,2.80%
+678,GL,MI,DET,Detroit,Coleman A Young Municipal,GA,None,741,557,33.03%
+730,GL,MI,MTC,Mount Clemens,Selfridge Angb,GA,None,397,0,0.00%
+889,GL,MI,83D,St. Ignace,Mackinac County,GA,None,50,30,66.67%
+890,GL,MI,ANJ,Sault Ste. Marie,Sault Ste Marie Municipal/Sanderson Field,GA,None,50,83,-39.76%
+901,GL,MI,MOP,Mount Pleasant,Mount Pleasant Municipal,GA,None,43,8,437.50%
+937,GL,MI,ADG,Adrian,Lenawee County,GA,None,30,0,0.00%
+1030,GL,MI,PHN,Port Huron,St Clair County International,GA,None,15,9,66.67%
+1115,GL,MI,JXN,Jackson,Jackson County-Reynolds Field,GA,None,7,4,75.00%
+1126,GL,MI,ARB,Ann Arbor,Ann Arbor Municipal,GA,None,6,16,-62.50%
+1163,GL,MI,ISQ,Manistique,Schoolcraft County,GA,None,5,3,66.67%
+1224,GL,MI,BEH,Benton Harbor,Southwest Michigan Regional,GA,None,3,6,-50.00%
+1232,GL,MI,HLM,Holland,Park Township,GA,None,3,4,-25.00%
+1233,GL,MI,LDM,Ludington,Mason County,GA,None,3,5,-40.00%
+1269,GL,MI,BIV,Holland,West Michigan Regional,GA,None,2,766,-99.74%
+1336,GL,MI,BTL,Battle Creek,W K Kellogg,GA,None,1,1,0.00%
+1338,GL,MI,CAD,Cadillac,Wexford County,GA,None,1,0,0.00%
+17,GL,MN,MSP,Minneapolis,Minneapolis-St Paul International/Wold-Chamberlain,P,L,"18,409,704","18,123,844",1.58%
+204,GL,MN,RST,Rochester,Rochester International,P,N,"143,675","112,864",27.30%
+216,GL,MN,DLH,Duluth,Duluth International,P,N,"122,726","124,284",-1.25%
+315,GL,MN,BJI,Bemidji,Bemidji Regional,P,N,"29,038","25,510",13.83%
+341,GL,MN,BRD,Brainerd,Brainerd Lakes Regional,P,N,"21,383","18,328",16.67%
+346,GL,MN,STC,St. Cloud,St. Cloud Regional,P,N,"20,918","15,615",33.96%
+372,GL,MN,HIB,Hibbing,Range Regional,P,N,"15,377","12,654",21.52%
+373,GL,MN,INL,International Falls,Falls International-Einarson Field,P,N,"15,278","13,831",10.46%
+450,GL,MN,TVF,Thief River Falls,Thief River Falls Regional,CS,None,"5,735","3,524",62.74%
+863,GL,MN,STP,St. Paul,St Paul Downtown Holman Field,GA,None,63,68,-7.35%
+902,GL,MN,AXN,Alexandria,Chandler Field,GA,None,42,0,0.00%
+963,GL,MN,MML,Marshall,Southwest Minnesota Regional Marshall/Ryan Field,GA,None,25,0,0.00%
+1003,GL,MN,MKT,Mankato,Mankato Regional,GA,None,18,11,63.64%
+1050,GL,MN,DTL,Detroit Lakes,Detroit Lakes-Wething Field,GA,None,12,0,0.00%
+1113,GL,MN,FRM,Fairmont,Fairmont Municipal,GA,None,7,0,0.00%
+1133,GL,MN,EVM,Eveleth,Eveleth-Virginia Municipal,GA,None,6,8,-25.00%
+1152,GL,MN,BDH,Willmar,Willmar Municipal-John L Rice Field,GA,None,5,0,0.00%
+1166,GL,MN,LJF,Litchfield,Litchfield Municipal,GA,None,5,0,0.00%
+1181,GL,MN,BDE,Baudette,Baudette International,GA,None,4,0,0.00%
+1187,GL,MN,ELO,Ely,Ely Municipal,GA,None,4,7,-42.86%
+1221,GL,MN,AEL,Albert Lea,Albert Lea Municipal,GA,None,3,0,0.00%
+1228,GL,MN,FFM,Fergus Falls,Fergus Falls Municipal-Einar Mickelson Field,GA,None,3,0,0.00%
+1256,GL,MN,12Y,Le Sueur,Le Sueur Municipal,GA,None,2,0,0.00%
+1276,GL,MN,CKC,Grand Marais,Grand Marais/Cook County,GA,None,2,0,0.00%
+1279,GL,MN,COQ,Cloquet,Cloquet Carlton County,GA,None,2,0,0.00%
+1285,GL,MN,FCM,Minneapolis,Flying Cloud,GA,None,2,25,-92.00%
+1309,GL,MN,PQN,Pipestone,Pipestone Municipal,GA,None,2,0,0.00%
+32,CE,MO,STL,St. Louis,St Louis Lambert International,P,M,"7,194,745","6,793,076",5.91%
+40,CE,MO,MCI,Kansas City,Kansas City International,P,M,"5,628,581","5,391,557",4.40%
+125,CE,MO,SGF,Springfield,Springfield-Branson National,P,S,"483,259","462,126",4.57%
+243,CE,MO,COU,Columbia,Columbia Regional,P,N,"88,650","65,014",36.36%
+302,CE,MO,JLN,Joplin,Joplin Regional,P,N,"35,498","27,930",27.10%
+408,CE,MO,TBN,Fort Leonard Wood (U.S. Army),Waynesville-St Robert Regional Forney Field,CS,None,"9,078","8,108",11.96%
+430,CE,MO,BBG,Branson,Branson,GA,None,"7,293","1,601",355.53%
+441,CE,MO,CGI,Scott City,Cape Girardeau Regional,CS,None,"6,321","5,532",14.26%
+465,CE,MO,IRK,Kirksville,Kirksville Regional,CS,None,"5,152","4,733",8.85%
+518,CE,MO,MKC,Kansas City,Charles B Wheeler Downtown,GA,None,"3,471","2,907",19.40%
+700,CE,MO,SZL,Knob Noster,Whiteman AFB,GA,None,592,307,92.83%
+793,CE,MO,SUS,Chesterfield,Spirit of St. Louis,GA,None,168,181,-7.18%
+928,CE,MO,AIZ,Kaiser,Lee C Fine Memorial,GA,None,32,58,-44.83%
+979,CE,MO,HAE,Hannibal,Hannibal Regional,GA,None,22,19,15.79%
+1038,CE,MO,JEF,Jefferson City,Jefferson City Memorial,GA,None,14,1,1300.00%
+1201,CE,MO,POF,Poplar Bluff,Poplar Bluff Municipal,GA,None,4,0,0.00%
+1303,CE,MO,NVD,Nevada,Nevada Municipal,GA,None,2,2,0.00%
+1322,CE,MO,UNO,West Plains,West Plains Regional,GA,None,2,2,0.00%
+105,WP,MP,GSN,Saipan,Francisco C Ada/Saipan International,P,S,"685,642","430,275",59.35%
+303,WP,MP,TNI,Tinian (Municipality),Tinian International,P,N,"34,910","38,452",-9.21%
+345,WP,MP,GRO,Northern Islands (Municipality),Benjamin Taisacan Manglona International,P,N,"21,214","19,178",10.62%
+128,SO,MS,JAN,Jackson,Jackson-Medgar Wiley Evers International,P,S,"462,655","491,464",-5.86%
+155,SO,MS,GPT,Gulfport,Gulfport-Biloxi International,P,N,"324,611","305,157",6.38%
+292,SO,MS,GTR,Columbus,Golden Triangle Regional,P,N,"41,632","40,823",1.98%
+331,SO,MS,MEI,Meridian,Key Field,P,N,"23,923","26,359",-9.24%
+385,SO,MS,PIB,Moselle,Hattiesburg-Laurel Regional,P,N,"11,726","12,367",-5.18%
+387,SO,MS,TUP,Tupelo,Tupelo Regional,P,N,"11,441","7,539",51.76%
+455,SO,MS,GLH,Greenville,Greenville Mid-Delta,CS,None,"5,646","4,986",13.24%
+800,SO,MS,UOX,Oxford,University-Oxford,GA,None,155,152,1.97%
+822,SO,MS,STF,Starkville,George M Bryan,GA,None,112,56,100.00%
+1028,SO,MS,MJD,Picayune,Picayune Municipal,GA,None,15,0,0.00%
+1117,SO,MS,RNV,Cleveland,Cleveland Municipal,GA,None,7,0,0.00%
+1194,SO,MS,HKS,Jackson,Hawkins Field,GA,None,4,4,0.00%
+1308,SO,MS,PQL,Pascagoula,Trent Lott International,GA,None,2,3,-33.33%
+1323,SO,MS,VKS,Vicksburg,Vicksburg Municipal,GA,None,2,2,0.00%
+1339,SO,MS,CKM,Clarksdale,Fletcher Field,GA,None,1,0,0.00%
+112,NM,MT,BZN,Bozeman,Bozeman Yellowstone International,P,S,"598,712","553,245",8.22%
+134,NM,MT,BIL,Billings,Billings Logan International,P,N,"415,093","423,213",-1.92%
+138,NM,MT,MSO,Missoula,Missoula International,P,N,"387,976","381,582",1.68%
+168,NM,MT,GPI,Kalispell,Glacier Park International,P,N,"272,279","247,816",9.87%
+192,NM,MT,GTF,Great Falls,Great Falls International,P,N,"171,049","176,730",-3.21%
+225,NM,MT,HLN,Helena,Helena Regional,P,N,"103,773","103,239",0.52%
+318,NM,MT,BTM,Butte,Bert Mooney,P,N,"27,703","25,890",7.00%
+411,NM,MT,WYS,West Yellowstone,Yellowstone,P,N,"8,786","8,525",3.06%
+413,NM,MT,SDY,Sidney,Sidney-Richland Regional,CS,None,"8,429","8,065",4.51%
+503,NM,MT,OLF,Wolf Point,L M Clayton,CS,None,"3,804","3,439",10.61%
+513,NM,MT,GGW,Glasgow,Wokal Field/Glasgow International,CS,None,"3,517","3,251",8.18%
+542,NM,MT,HVR,Havre,Havre City-County,CS,None,"2,716","2,323",16.92%
+573,NM,MT,GDV,Glendive,Dawson Community,GA,None,"2,229","2,639",-15.54%
+851,NM,MT,S59,Libby,Libby,GA,None,70,31,125.81%
+1074,NM,MT,9S4,Superior,Mineral County,GA,None,10,0,0.00%
+1217,NM,MT,88M,Eureka,Eureka,GA,None,3,2,50.00%
+1234,NM,MT,LWT,Lewistown,Lewistown Municipal,GA,None,3,2,50.00%
+1313,NM,MT,SBX,Shelby,Shelby,GA,None,2,2,0.00%
+1328,NM,MT,57S,Troy,Troy,GA,None,1,0,0.00%
+1353,NM,MT,MLS,Miles City,Frank Wiley Field,GA,None,1,0,0.00%
+1358,NM,MT,THM,Thompson Falls,Thompson Falls,GA,None,1,2,-50.00%
+10,SO,NC,CLT,Charlotte,Charlotte/Douglas International,P,L,"22,011,251","21,511,880",2.32%
+39,SO,NC,RDU,Raleigh,Raleigh-Durham International,P,M,"5,692,659","5,401,714",5.39%
+97,SO,NC,GSO,Greensboro,Piedmont Triad International,P,S,"881,024","848,261",3.86%
+127,SO,NC,AVL,Asheville,Asheville Regional,P,S,"478,061","416,939",14.66%
+132,SO,NC,ILM,Wilmington,Wilmington International,P,N,"422,553","413,185",2.27%
+174,SO,NC,FAY,Fayetteville,Fayetteville Regional/Grannis Field,P,N,"238,568","224,541",6.25%
+195,SO,NC,OAJ,Jacksonville,Albert J Ellis,P,N,"155,342","149,987",3.57%
+212,SO,NC,JQF,Concord,Concord Regional,P,N,"129,034","90,338",42.83%
+222,SO,NC,EWN,New Bern,Coastal Carolina Regional,P,N,"111,147","106,110",4.75%
+272,SO,NC,PGV,Greenville,Pitt-Greenville,P,N,"51,966","47,457",9.50%
+380,SO,NC,92NC,Morganton,Grace Hospital,GA,None,"12,920","17,122",-24.54%
+414,SO,NC,POB,Fayetteville,Pope AAF,GA,None,"8,418","5,583",50.78%
+676,SO,NC,ECG,Elizabeth City,Elizabeth City CG Air Station/Regional,GA,None,787,529,48.77%
+681,SO,NC,RWI,Rocky Mount,Rocky Mount-Wilson Regional,GA,None,726,701,3.57%
+695,SO,NC,HKY,Hickory,Hickory Regional,GA,None,611,889,-31.27%
+697,SO,NC,INT,Winston-Salem,Smith Reynolds,GA,None,608,930,-34.62%
+701,SO,NC,GSB,Goldsboro,Seymour Johnson AFB,GA,None,588,551,6.72%
+756,SO,NC,ISO,Kinston,Kinston Regional Jetport at Stallings Field,GA,None,308,"1,114",-72.35%
+956,SO,NC,MQI,Manteo,Dare County Regional,GA,None,27,11,145.45%
+969,SO,NC,VUJ,Albemarle,Stanly County,GA,None,24,0,0.00%
+993,SO,NC,HSE,Hatteras,Billy Mitchell,GA,None,19,0,0.00%
+1118,SO,NC,SUT,Southport,Cape Fear Regional Jetport/Howie Franklin Field,GA,None,7,4,75.00%
+1142,SO,NC,OCW,Washington,Washington-Warren,GA,None,6,0,0.00%
+1173,SO,NC,SOP,Pinehurst/Southern Pines,Moore County,GA,None,5,7,-28.57%
+1186,SO,NC,EDE,Edenton,Northeastern Regional,GA,None,4,0,0.00%
+1283,SO,NC,EXX,Lexington,Davidson County,GA,None,2,2,0.00%
+1318,SO,NC,SVH,Statesville,Statesville Regional,GA,None,2,4,-50.00%
+1340,SO,NC,CPC,Whiteville,Columbus County Municipal,GA,None,1,0,0.00%
+1344,SO,NC,EQY,Monroe,Charlotte-Monroe Executive,GA,None,1,4,-75.00%
+135,GL,ND,FAR,Fargo,Hector International,P,N,"404,937","402,976",0.49%
+166,GL,ND,BIS,Bismarck,Bismarck Municipal,P,N,"275,098","273,980",0.41%
+206,GL,ND,MOT,Minot,Minot International,P,N,"141,161","150,634",-6.29%
+217,GL,ND,GFK,Grand Forks,Grand Forks International,P,N,"117,520","132,557",-11.34%
+258,GL,ND,ISN,Williston,Sloulin Field International,P,N,"69,802","68,829",1.41%
+353,GL,ND,DIK,Dickinson,Dickinson - Theodore Roosevelt Regional,P,N,"18,963","16,822",12.73%
+397,GL,ND,JMS,Jamestown,Jamestown Regional,P,N,"10,917","11,123",-1.85%
+423,GL,ND,DVL,Devils Lake,Devils Lake Regional,CS,None,"7,767","8,209",-5.38%
+625,GL,ND,MIB,Minot,Minot AFB,GA,None,"1,349",365,269.59%
+61,CE,NE,OMA,Omaha,Eppley Airfield,P,M,"2,243,658","2,127,387",5.47%
+198,CE,NE,LNK,Lincoln,Lincoln,P,N,"154,465","162,876",-5.16%
+261,CE,NE,GRI,Grand Island,Central Nebraska Regional,P,N,"66,842","68,879",-2.96%
+457,CE,NE,CDR,Chadron,Chadron Municipal,CS,None,"5,532","4,474",23.65%
+479,CE,NE,EAR,Kearney,Kearney Regional,CS,None,"4,607","4,180",10.22%
+495,CE,NE,LBF,North Platte,North Platte Regional Airport Lee Bird Field,CS,None,"3,911","4,075",-4.02%
+506,CE,NE,BFF,Scottsbluff,Western Nebraska Regional/William B Heilig Field,CS,None,"3,709","4,262",-12.98%
+543,CE,NE,MCK,McCook,McCook Ben Nelson Regional,CS,None,"2,710","1,619",67.39%
+556,CE,NE,AIA,Alliance,Alliance Municipal,GA,None,"2,460","2,139",15.01%
+658,CE,NE,OFF,Omaha,Offutt AFB,GA,None,900,"1,018",-11.59%
+978,CE,NE,FET,Fremont,Fremont Municipal,GA,None,22,0,0.00%
+1107,CE,NE,OLU,Columbus,Columbus Municipal,GA,None,8,0,0.00%
+1199,CE,NE,OFK,Norfolk,Norfolk Regional/Karl Stefan Memorial Field,GA,None,4,0,0.00%
+1307,CE,NE,PMV,Plattsmouth,Plattsmouth Municipal,GA,None,2,2,0.00%
+92,NE,NH,MHT,Manchester,Manchester,P,S,"969,229","995,403",-2.63%
+224,NE,NH,PSM,Portsmouth,Portsmouth International at Pease,P,N,"105,077","73,247",43.46%
+401,NE,NH,LEB,Lebanon,Lebanon Municipal,P,N,"10,383","10,245",1.35%
+879,NE,NH,LCI,Laconia,Laconia Municipal,GA,None,57,45,26.67%
+894,NE,NH,EEN,Keene,Dillant-Hopkins,GA,None,47,13,261.54%
+1112,NE,NH,CON,Concord,Concord Municipal,GA,None,7,34,-79.41%
+1222,NE,NH,ASH,Nashua,Boire Field,GA,None,3,4,-25.00%
+1231,NE,NH,HIE,Whitefield,Mount Washington Regional,GA,None,3,0,0.00%
+11,EA,NJ,EWR,Newark,Newark Liberty International,P,L,"21,571,198","19,923,009",8.27%
+118,EA,NJ,ACY,Atlantic City,Atlantic City International,P,S,"552,690","589,091",-6.18%
+143,EA,NJ,TTN,Trenton,Trenton Mercer,P,N,"363,654","278,436",30.61%
+393,EA,NJ,TEB,Teterboro,Teterboro,GA,None,"11,160","7,772",43.59%
+443,EA,NJ,MMU,Morristown,Morristown Municipal,GA,None,"6,159","7,239",-14.92%
+603,EA,NJ,WRI,Wrightstown,McGuire Field (Joint Base McGuire Dix Lakehurst),GA,None,"1,622",848,91.27%
+814,EA,NJ,BLM,Belmar,Monmouth Executive,GA,None,126,76,65.79%
+947,EA,NJ,19N,Berlin,Camden County,GA,None,28,8,250.00%
+1011,EA,NJ,39N,Rocky Hill,Princeton,GA,None,16,10,60.00%
+1120,EA,NJ,WWD,Wildwood,Cape May County,GA,None,7,31,-77.42%
+1215,EA,NJ,47N,Manville,Central Jersey Regional,GA,None,3,0,0.00%
+1236,EA,NJ,MJX,Toms River,Ocean County,GA,None,3,2,50.00%
+57,SW,NM,ABQ,Albuquerque,Albuquerque International Sunport,P,M,"2,412,328","2,341,719",3.02%
+227,SW,NM,SAF,Santa Fe,Santa Fe Municipal,P,N,"103,679","71,252",45.51%
+270,SW,NM,ROW,Roswell,Roswell International Air Center,P,N,"55,211","44,378",24.41%
+366,SW,NM,HOB,Hobbs,Lea County Regional,P,N,"16,216","14,707",10.26%
+453,SW,NM,SVC,Silver City,Grant County,CS,None,"5,686","5,442",4.48%
+466,SW,NM,CVN,Clovis,Clovis Municipal,CS,None,"5,053","4,854",4.10%
+494,SW,NM,CNM,Carlsbad,Cavern City Air Terminal,CS,None,"3,972","3,057",29.93%
+540,SW,NM,FMN,Farmington,Four Corners Regional,CS,None,"2,739","1,359",101.55%
+720,SW,NM,CVS,Clovis,Cannon AFB,GA,None,468,976,-52.05%
+762,SW,NM,LRU,Las Cruces,Las Cruces International,GA,None,283,41,590.24%
+883,SW,NM,HMN,Alamogordo,Holloman AFB,GA,None,55,67,-17.91%
+1246,SW,NM,SKX,Taos,Taos Regional,GA,None,3,0,0.00%
+1266,SW,NM,AEG,Albuquerque,Double Eagle II,GA,None,2,2,0.00%
+1343,SW,NM,DNA,Santa Teresa,Dona Ana County International Jetport,GA,None,1,0,0.00%
+8,WP,NV,LAS,Las Vegas,McCarran International,P,L,"23,364,393","22,833,267",2.33%
+63,WP,NV,RNO,Reno,Reno/Tahoe International,P,S,"1,953,028","1,771,864",10.22%
+179,WP,NV,BVU,Boulder City,Boulder City Municipal,P,N,"220,980","211,615",4.43%
+362,WP,NV,EKO,Elko,Elko Regional,P,N,"17,115","14,893",14.92%
+269,WP,NV,HND,Las Vegas,Henderson Executive,GA,None,"57,078","63,445",-10.04%
+570,WP,NV,LSV,Las Vegas,Nellis AFB,GA,None,"2,304","1,540",49.61%
+821,WP,NV,INS,Indian Springs,Creech AFB,GA,None,114,84,35.71%
+900,WP,NV,MEV,Minden,Minden-Tahoe,GA,None,43,0,0.00%
+1032,WP,NV,RTS,Reno,Reno/Stead,GA,None,15,0,0.00%
+1218,WP,NV,88NV,Gerlach,Black Rock City,GA,None,3,2,50.00%
+1251,WP,NV,VGT,Las Vegas,North Las Vegas,GA,None,3,"15,828",-99.98%
+6,EA,NY,JFK,New York,John F Kennedy International,P,L,"29,533,154","29,239,151",1.01%
+20,EA,NY,LGA,New York,Laguardia,P,L,"14,614,802","14,762,593",-1.00%
+59,EA,NY,BUF,Buffalo,Buffalo Niagara International,P,M,"2,348,512","2,313,724",1.50%
+80,EA,NY,ALB,Albany,Albany International,P,S,"1,393,666","1,388,860",0.35%
+84,EA,NY,ROC,Rochester,Greater Rochester International,P,S,"1,205,774","1,186,002",1.67%
+90,EA,NY,SYR,Syracuse,Syracuse Hancock International,P,S,"1,013,149","988,496",2.49%
+101,EA,NY,HPN,White Plains,Westchester County,P,S,"759,334","766,170",-0.89%
+107,EA,NY,ISP,Islip,Long Island MacArthur,P,S,"648,593","597,133",8.62%
+176,EA,NY,SWF,Newburgh,Stewart International,P,N,"228,640","140,328",62.93%
+205,EA,NY,IAG,Niagara Falls,Niagara Falls International,P,N,"142,605","126,028",13.15%
+207,EA,NY,PBG,Plattsburgh,Plattsburgh International,P,N,"139,398","129,622",7.54%
+213,EA,NY,ELM,Elmira,Elmira/Corning Regional,P,N,"126,472","139,583",-9.39%
+233,EA,NY,ITH,Ithaca,Ithaca Tompkins Regional,P,N,"97,212","88,692",9.61%
+306,EA,NY,BGM,Binghamton,Greater Binghamton/Edwin A Link Field,P,N,"33,425","68,415",-51.14%
+335,EA,NY,OGS,Ogdensburg,Ogdensburg International,P,N,"22,957","10,281",123.30%
+338,EA,NY,ART,Watertown,Watertown International,P,N,"22,785","17,312",31.61%
+374,EA,NY,GTB,Fort Drum,Wheeler-Sack AAF,GA,None,"14,576","3,398",328.96%
+418,EA,NY,FRG,North Babylon,Republic,GA,None,"8,032","10,910",-26.38%
+469,EA,NY,SLK,Saranac Lake,Adirondack Regional,CS,None,"4,977","4,732",5.18%
+475,EA,NY,MSS,Massena,Massena International-Richards Field,CS,None,"4,852","5,311",-8.64%
+639,EA,NY,JHW,Jamestown,Chautauqua County/Jamestown,GA,None,"1,116","1,301",-14.22%
+727,EA,NY,FOK,Westhampton Beach,Francis S Gabreski,GA,None,431,240,79.58%
+786,EA,NY,0B8,Fishers Island,Elizabeth Field,GA,None,179,149,20.13%
+798,EA,NY,HTO,East Hampton,East Hampton,GA,None,158,211,-25.12%
+820,EA,NY,PEO,Penn Yan,Penn Yan,GA,None,118,179,-34.08%
+850,EA,NY,RME,Rome,Griffiss International,GA,None,71,97,-26.80%
+876,EA,NY,MTP,Montauk,Montauk,GA,None,58,32,81.25%
+910,EA,NY,5B2,Saratoga Springs,Saratoga County,GA,None,39,70,-44.29%
+932,EA,NY,MSV,Monticello,Sullivan County International,GA,None,32,3,966.67%
+1007,EA,NY,GFL,Glens Falls,Floyd Bennett Memorial,GA,None,17,62,-72.58%
+1062,EA,NY,VGC,Hamilton,Hamilton Municipal,GA,None,12,12,0.00%
+1070,EA,NY,POU,Poughkeepsie,Hudson Valley Regional,GA,None,11,19,-42.11%
+1097,EA,NY,1B1,Hudson,Columbia County,GA,None,8,2,300.00%
+1104,EA,NY,JRA,New York,West 30th St,GA,None,8,0,0.00%
+1123,EA,NY,6B9,Skaneateles,Skaneateles Aero Drome,GA,None,6,25,-76.00%
+1139,EA,NY,LKP,Lake Placid,Lake Placid,GA,None,6,11,-45.45%
+1141,EA,NY,N66,Oneonta,Oneonta Municipal,GA,None,6,28,-78.57%
+1146,EA,NY,PTD,Potsdam,Potsdam Municipal/Damon Field/,GA,None,6,142,-95.77%
+1165,EA,NY,JRB,New York,Downtown Manhattan/Wall St,GA,None,5,0,0.00%
+1198,EA,NY,MGJ,Montgomery,Orange County,GA,None,4,4,0.00%
+1212,EA,NY,20N,Kingston,Kingston-Ulster,GA,None,3,5,-40.00%
+1214,EA,NY,44N,Millbrook,Sky Acres,GA,None,3,5,-40.00%
+1243,EA,NY,SCH,Schenectady,Schenectady County,GA,None,3,3,0.00%
+1290,EA,NY,GVQ,Batavia,Genesee County,GA,None,2,1,100.00%
+1356,EA,NY,OIC,Norwich,Lt Warren Eaton,GA,None,1,1,0.00%
+43,GL,OH,CLE,Cleveland,Cleveland-Hopkins International,P,M,"4,446,555","4,083,476",8.89%
+50,GL,OH,CMH,Columbus,John Glenn Columbus International,P,M,"3,689,570","3,567,864",3.41%
+95,GL,OH,DAY,Dayton,James M Cox Dayton International,P,S,"935,373","1,019,922",-8.29%
+111,GL,OH,CAK,Akron,Akron-Canton Regional,P,S,"619,321","685,553",-9.66%
+209,GL,OH,LCK,Columbus,Rickenbacker International,P,N,"133,649","102,751",30.07%
+230,GL,OH,TOL,Toledo,Toledo Express,P,N,"102,988","92,522",11.31%
+299,GL,OH,YNG,Youngstown,Youngstown-Warren Regional,P,N,"36,455","53,633",-32.03%
+311,GL,OH,LUK,Cincinnati,Cincinnati Municipal Airport Lunken Field,P,N,"30,681","25,706",19.35%
+384,GL,OH,BKL,Cleveland,Burke Lakefront,P,N,"12,024","9,917",21.25%
+734,GL,OH,FFO,Dayton,Wright-Patterson AFB,GA,None,380,168,126.19%
+751,GL,OH,MFD,Mansfield,Mansfield Lahm Regional,GA,None,336,138,143.48%
+864,GL,OH,TDZ,Walbridge,Toledo Executive,GA,None,63,58,8.62%
+917,GL,OH,CGF,Cleveland,Cuyahoga County,GA,None,37,110,-66.36%
+991,GL,OH,OSU,Columbus,Ohio State University,GA,None,20,58,-65.52%
+1068,GL,OH,LPR,Lorain,Lorain County Regional,GA,None,11,13,-15.38%
+1137,GL,OH,I68,Lebanon,Warren County/John Lane Field,GA,None,6,0,0.00%
+1154,GL,OH,BJJ,Wooster,Wayne County,GA,None,5,0,0.00%
+1178,GL,OH,AKR,Akron,Akron Fulton International,GA,None,4,11,-63.64%
+1230,GL,OH,HAO,Hamilton,Butler Co Regional-Hogan Field,GA,None,3,6,-50.00%
+1253,GL,OH,ZZV,Zanesville,Zanesville Municipal,GA,None,3,3,0.00%
+1295,GL,OH,I19,Xenia,Greene County-Lewis A Jackson Regional,GA,None,2,0,0.00%
+66,SW,OK,OKC,Oklahoma City,Will Rogers World,P,S,"1,894,289","1,796,473",5.44%
+81,SW,OK,TUL,Tulsa,Tulsa International,P,S,"1,374,424","1,342,315",2.39%
+273,SW,OK,LAW,Lawton,Lawton-Fort Sill Regional,P,N,"50,939","51,088",-0.29%
+320,SW,OK,SWO,Stillwater,Stillwater Regional,P,N,"27,370","10,362",164.14%
+661,SW,OK,TIK,Oklahoma City,Tinker AFB,GA,None,880,825,6.67%
+794,SW,OK,PWA,Oklahoma City,Wiley Post,GA,None,167,8,1987.50%
+944,SW,OK,OUN,Norman,University of Oklahoma Westheimer,GA,None,29,59,-50.85%
+990,SW,OK,DUA,Durant,Durant Regional - Eaker Field,GA,None,20,13,53.85%
+1150,SW,OK,WWR,Woodward,West Woodward,GA,None,6,16,-62.50%
+1211,SW,OK,1K8,Ketchum,South Grand Lake Regional,GA,None,3,0,0.00%
+1237,SW,OK,MKO,Muskogee,Muskogee-Davis Regional,GA,None,3,0,0.00%
+30,NM,OR,PDX,Portland,Portland International,P,L,"9,435,473","9,071,154",4.02%
+121,NM,OR,EUG,Eugene,Mahlon Sweet Field,P,S,"529,149","483,224",9.50%
+131,NM,OR,MFR,Medford,Rogue Valley International - Medford,P,S,"440,506","401,469",9.72%
+142,NM,OR,RDM,Redmond,Roberts Field,P,N,"364,921","306,517",19.05%
+379,NM,OR,OTH,North Bend,Southwest Oregon Regional,P,N,"12,971","14,719",-11.88%
+451,NM,OR,PDT,Pendleton,Eastern Oregon Regional at Pendleton,CS,None,"5,701","2,582",120.80%
+458,NM,OR,LMT,Klamath Falls,Crater Lake-Klamath Regional,CS,None,"5,529","2,827",95.58%
+886,NM,OR,SLE,Salem,McNary Field,GA,None,52,44,18.18%
+966,NM,OR,HIO,Portland,Portland-Hillsboro,GA,None,24,30,-20.00%
+968,NM,OR,S03,Ashland,Ashland Municipal-Sumner Parker Field,GA,None,24,36,-33.33%
+971,NM,OR,BNO,Burns,Burns Municipal,GA,None,23,0,0.00%
+994,NM,OR,ONO,Ontario,Ontario Municipal,GA,None,19,9,111.11%
+1031,NM,OR,RBG,Roseburg,Roseburg Regional,GA,None,15,2,650.00%
+1043,NM,OR,CVO,Corvallis,Corvallis Municipal,GA,None,13,18,-27.78%
+1080,NM,OR,OR49,Coos Bay,Bay Area Hospital,GA,None,10,0,0.00%
+1086,NM,OR,3S8,Grants Pass,Grants Pass,GA,None,9,0,0.00%
+1100,NM,OR,BDN,Bend,Bend Municipal,GA,None,8,2,300.00%
+1109,NM,OR,TTD,Portland,Portland-Troutdale,GA,None,8,4,100.00%
+1111,NM,OR,BOK,Brookings,Brookings,GA,None,7,1,600.00%
+1268,NM,OR,AST,Astoria,Astoria Regional,GA,None,2,6,-66.67%
+1294,NM,OR,HRI,Hermiston,Hermiston Municipal,GA,None,2,12,-83.33%
+21,EA,PA,PHL,Philadelphia,Philadelphia International,P,L,"14,271,243","14,564,419",-2.01%
+47,EA,PA,PIT,Pittsburgh,Pittsburgh International,P,M,"4,327,434","3,986,114",8.56%
+114,EA,PA,MDT,Harrisburg,Harrisburg International,P,S,"582,291","589,511",-1.22%
+154,EA,PA,ABE,Allentown,Lehigh Valley International,P,N,"328,914","324,511",1.36%
+170,EA,PA,AVP,Avoca,Wilkes-Barre/Scranton International,P,N,"261,572","232,855",12.33%
+200,EA,PA,LBE,Latrobe,Arnold Palmer Regional,P,N,"151,207","146,127",3.48%
+208,EA,PA,UNV,State College,University Park,P,N,"138,423","134,312",3.06%
+246,EA,PA,ERI,Erie,Erie International/Tom Ridge Field,P,N,"85,631","87,647",-2.30%
+355,EA,PA,IPT,Williamsport,Williamsport Regional,P,N,"18,323","19,320",-5.16%
+480,EA,PA,LNS,Lititz,Lancaster,CS,None,"4,577","4,230",8.20%
+497,EA,PA,BFD,Bradford,Bradford Regional,CS,None,"3,897","2,623",48.57%
+498,EA,PA,DUJ,Brookville,Dubois Regional,CS,None,"3,888","2,934",32.52%
+502,EA,PA,AOO,Altoona,Altoona-Blair County,CS,None,"3,806","1,865",104.08%
+511,EA,PA,JST,Johnstown,John Murtha Johnstown-Cambria County,CS,None,"3,594","4,193",-14.29%
+618,EA,PA,FKL,Franklin,Venango Regional,GA,None,"1,396","2,025",-31.06%
+621,EA,PA,RDG,Reading,Reading Regional/Carl A Spaatz Field,GA,None,"1,391","1,470",-5.37%
+745,EA,PA,AGC,West Mifflin,Allegheny County,GA,None,346,412,-16.02%
+789,EA,PA,CXY,New Cumberland Army Depot,Capital City,GA,None,171,87,96.55%
+797,EA,PA,PNE,Philadelphia,Northeast Philadelphia,GA,None,161,240,-32.92%
+852,EA,PA,OQN,West Chester,Brandywine,GA,None,68,0,0.00%
+948,EA,PA,4PN7,Eagles Mere,Merritt Field,GA,None,28,16,75.00%
+953,EA,PA,LOM,Ambler,Wings Field,GA,None,27,149,-81.88%
+985,EA,PA,MQS,Coatesville,Chester County G O Carlson,GA,None,21,11,90.91%
+1000,EA,PA,CKZ,Perkasie,Pennridge,GA,None,18,35,-48.57%
+1015,EA,PA,AFJ,Washington,Washington County,GA,None,16,3,433.33%
+1046,EA,PA,SEG,Selinsgrove,Penn Valley,GA,None,13,4,225.00%
+1094,EA,PA,MPO,Mount Pocono,Pocono Mountains Municipal,GA,None,9,0,0.00%
+1105,EA,PA,N94,Carlisle,Carlisle,GA,None,8,2,300.00%
+1145,EA,PA,PJC,Beaver Falls,Zelienople Municipal,GA,None,6,2,200.00%
+1147,EA,PA,PTW,Pottstown,Heritage Field,GA,None,6,4,50.00%
+1270,EA,PA,BVI,Beaver Falls,Beaver County,GA,None,2,1,100.00%
+48,SO,PR,SJU,San Juan,Luis Munoz Marin International,P,M,"4,203,766","4,343,354",-3.21%
+172,SO,PR,BQN,Aguadilla,Rafael Hernandez,P,N,"252,693","257,871",-2.01%
+242,SO,PR,PSE,Ponce,Mercedita,P,N,"89,334","105,804",-15.57%
+276,SO,PR,VQS,Vieques,Antonio Rivera Rodriguez,P,N,"50,510","63,104",-19.96%
+309,SO,PR,RVR,Ceiba,Jose Aponte De La Torre,P,N,"32,299","43,005",-24.89%
+324,SO,PR,CPX,Culebra,Benjamin Rivera Noriega,P,N,"26,556","31,141",-14.72%
+354,SO,PR,SIG,San Juan,Fernando Luis Ribas Dominicci,P,N,"18,361","24,054",-23.67%
+442,SO,PR,MAZ,Mayaguez,Eugenio Maria De Hostos,CS,None,"6,255","5,344",17.05%
+65,NE,RI,PVD,Warwick,Theodore Francis Green State,P,S,"1,940,806","1,803,000",7.64%
+363,NE,RI,WST,Westerly,Westerly State,P,N,"17,021","17,218",-1.14%
+371,NE,RI,BID,Block Island,Block Island State,P,N,"15,497","17,225",-10.03%
+722,NE,RI,OQU,North Kingstown,Quonset State,GA,None,455,345,31.88%
+849,NE,RI,UUU,Newport,Newport State,GA,None,72,120,-40.00%
+1084,NE,RI,SFZ,Pawtucket,North Central State,GA,None,10,26,-61.54%
+64,SO,SC,CHS,Charleston,Charleston AFB/International,P,S,"1,945,699","1,811,695",7.40%
+86,SO,SC,MYR,Myrtle Beach,Myrtle Beach International,P,S,"1,131,959","944,849",19.80%
+88,SO,SC,GSP,Greer,Greenville Spartanburg International,P,S,"1,051,089","991,276",6.03%
+124,SO,SC,CAE,Columbia,Columbia Metropolitan,P,S,"510,188","553,658",-7.85%
+289,SO,SC,FLO,Florence,Florence Regional,P,N,"42,058","45,300",-7.16%
+325,SO,SC,HXD,Hilton Head Island,Hilton Head,P,N,"26,220","30,956",-15.30%
+604,SO,SC,SSC,Sumter,Shaw AFB,GA,None,"1,616","1,153",40.16%
+665,SO,SC,NBC,Beaufort,Beaufort MCAS /Merritt Field/,GA,None,852,194,339.18%
+791,SO,SC,AND,Anderson,Anderson Regional,GA,None,169,80,111.25%
+801,SO,SC,ARW,Beaufort,Beaufort County,GA,None,151,909,-83.39%
+836,SO,SC,CEU,Seneca,Oconee County Regional,GA,None,93,9,933.33%
+843,SO,SC,CRE,North Myrtle Beach,Grand Strand,GA,None,80,73,9.59%
+873,SO,SC,AIK,Aiken,Aiken Regional,GA,None,58,13,346.15%
+903,SO,SC,JZI,Charleston,Charleston Executive,GA,None,42,42,0.00%
+941,SO,SC,RBW,Walterboro,Lowcountry Regional,GA,None,30,2,1400.00%
+1041,SO,SC,SPA,Spartanburg,Spartanburg Downtown Memorial,GA,None,14,4,250.00%
+1102,SO,SC,GYH,Greenville,Donaldson Field,GA,None,8,30,-73.33%
+1110,SO,SC,UZA,Rock Hill,Rock Hill/York County/Bryant Field,GA,None,8,2,300.00%
+1130,SO,SC,CUB,Columbia,Jim Hamilton L B Owens,GA,None,6,8,-25.00%
+1136,SO,SC,GMU,Greenville,Greenville Downtown,GA,None,6,8,-25.00%
+1304,SO,SC,OGB,Orangeburg,Orangeburg Municipal,GA,None,2,0,0.00%
+120,GL,SD,FSD,Sioux Falls,Joe Foss Field,P,S,"540,877","510,105",6.03%
+163,GL,SD,RAP,Rapid City,Rapid City Regional,P,N,"286,567","272,537",5.15%
+308,GL,SD,PIR,Pierre,Pierre Regional,P,N,"32,822","8,246",298.04%
+319,GL,SD,ABR,Aberdeen,Aberdeen Regional,P,N,"27,635","26,529",4.17%
+392,GL,SD,ATY,Watertown,Watertown Regional,P,N,"11,160","2,117",427.16%
+693,GL,SD,RCA,Rapid City,Ellsworth AFB,GA,None,616,473,30.23%
+911,GL,SD,9D1,Gregory,Gregory Municipal - Flynn Field,GA,None,39,0,0.00%
+924,GL,SD,YKN,Yankton,Chan Gurney Municipal,GA,None,35,0,0.00%
+939,GL,SD,ICR,Winner,Winner Regional,GA,None,30,0,0.00%
+949,GL,SD,HON,Huron,Huron Regional,GA,None,28,607,-95.39%
+954,GL,SD,MHE,Mitchell,Mitchell Municipal,GA,None,27,0,0.00%
+961,GL,SD,AGZ,Wagner,Wagner Municipal,GA,None,25,0,0.00%
+982,GL,SD,BKX,Brookings,Brookings Regional,GA,None,21,0,0.00%
+997,GL,SD,0D8,Gettysburg,Gettysburg Municipal,GA,None,18,0,0.00%
+1020,GL,SD,MKA,Miller,Miller Municipal,GA,None,16,0,0.00%
+1033,GL,SD,6.00E+05,De Smet,Wilder,GA,None,14,0,0.00%
+1207,GL,SD,SPF,Spearfish,Black Hills-Clyde Ice Field,GA,None,4,4,0.00%
+33,SO,TN,BNA,Nashville,Nashville International,P,M,"6,902,771","6,338,517",8.90%
+62,SO,TN,MEM,Memphis,Memphis International,P,S,"2,102,739","2,016,089",4.30%
+93,SO,TN,TYS,Alcoa,McGhee Tyson,P,S,"963,752","887,103",8.64%
+126,SO,TN,CHA,Chattanooga,Lovell Field,P,S,"482,113","422,442",14.13%
+190,SO,TN,TRI,Bristol/Johnson/Kingsport,Tri-Cities,P,N,"193,068","204,926",-5.79%
+492,SO,TN,MKL,Jackson,McKellar-Sipes Regional,CS,None,"4,007","3,661",9.45%
+514,SO,TN,MQY,Smyrna,Smyrna,GA,None,"3,516","2,542",38.32%
+839,SO,TN,RZR,Cleveland,Cleveland Regional Jetport,GA,None,89,0,0.00%
+958,SO,TN,MMI,Athens,McMinn County,GA,None,26,4,550.00%
+1010,SO,TN,1M5,Portland,Portland Municipal,GA,None,16,12,33.33%
+1067,SO,TN,JWN,Nashville,John C Tune,GA,None,11,33,-66.67%
+1090,SO,TN,CKV,Clarksville,Outlaw Field,GA,None,9,0,0.00%
+1131,SO,TN,DYR,Dyersburg,Dyersburg Regional,GA,None,6,0,0.00%
+1174,SO,TN,THA,Tullahoma,Tullahoma Regional Airport/Wm Northern Field,GA,None,5,0,0.00%
+1213,SO,TN,2A1,Jamestown,Jamestown Municipal,GA,None,3,6,-50.00%
+1244,SO,TN,SCX,Oneida,Scott Municipal,GA,None,3,0,0.00%
+1325,SO,TN,0A9,Elizabethton,Elizabethton Municipal,GA,None,1,4,-75.00%
+4,SW,TX,DFW,Fort Worth,Dallas-Fort Worth International,P,L,"31,816,933","31,283,579",1.70%
+15,SW,TX,IAH,Houston,George Bush Intercontinental/Houston,P,L,"19,603,731","20,062,072",-2.28%
+31,SW,TX,DAL,Dallas,Dallas Love Field,P,M,"7,593,361","7,554,596",0.51%
+34,SW,TX,AUS,Austin,Austin-Bergstrom International,P,M,"6,813,171","6,095,545",11.77%
+35,SW,TX,HOU,Houston,William P Hobby,P,M,"6,538,976","6,285,181",4.04%
+44,SW,TX,SAT,San Antonio,San Antonio International,P,M,"4,382,127","4,179,994",4.84%
+77,SW,TX,ELP,El Paso,El Paso International,P,S,"1,450,115","1,414,376",2.53%
+123,SW,TX,MAF,Midland,Midland International Air And Space Port,P,S,"516,983","471,490",9.65%
+129,SW,TX,LBB,Lubbock,Lubbock Preston Smith International,P,S,"460,236","448,093",2.71%
+149,SW,TX,MFE,McAllen,McAllen Miller International,P,N,"336,431","355,224",-5.29%
+152,SW,TX,AMA,Amarillo,Rick Husband Amarillo International,P,N,"334,563","334,815",-0.08%
+156,SW,TX,CRP,Corpus Christi,Corpus Christi International,P,N,"320,263","325,815",-1.70%
+167,SW,TX,HRL,Harlingen,Valley International,P,N,"273,070","263,760",3.53%
+196,SW,TX,GRK,Killeen,Robert Gray AAF,P,N,"154,951","157,161",-1.41%
+219,SW,TX,BRO,Brownsville,Brownsville/South Padre Island International,P,N,"116,197","120,151",-3.29%
+241,SW,TX,LRD,Laredo,Laredo International,P,N,"91,462","101,115",-9.55%
+247,SW,TX,ABI,Abilene,Abilene Regional,P,N,"85,085","84,809",0.33%
+254,SW,TX,CLL,College Station,Easterwood Field,P,N,"73,430","78,907",-6.94%
+266,SW,TX,SJT,San Angelo,San Angelo Regional/Mathis Field,P,N,"59,206","60,277",-1.78%
+267,SW,TX,ACT,Waco,Waco Regional,P,N,"58,888","64,356",-8.50%
+280,SW,TX,TYR,Tyler,Tyler Pounds Regional,P,N,"49,653","52,494",-5.41%
+296,SW,TX,SPS,Wichita Falls,Sheppard AFB/Wichita Falls Municipal,P,N,"38,773","40,165",-3.47%
+332,SW,TX,BPT,Beaumont,Jack Brooks Regional,P,N,"23,767","26,518",-10.37%
+352,SW,TX,GGG,Longview,East Texas Regional,P,N,"19,261","22,480",-14.32%
+307,SW,TX,BIF,Fort Bliss/El Paso/,Biggs AAF (Fort Bliss),GA,None,"33,184","26,730",24.15%
+559,SW,TX,VCT,Victoria,Victoria Regional,GA,None,"2,418","3,137",-22.92%
+571,SW,TX,AFW,Fort Worth,Fort Worth Alliance,GA,None,"2,260","1,881",20.15%
+594,SW,TX,FTW,Fort Worth,Fort Worth Meacham International,GA,None,"1,766","1,104",59.96%
+647,SW,TX,07TA,Danbury,Salaika Aviation,GA,None,"1,000","1,000",0.00%
+670,SW,TX,DRT,Del Rio,Del Rio International,GA,None,807,22,3568.18%
+689,SW,TX,EFD,Houston,Ellington,GA,None,641,"1,591",-59.71%
+696,SW,TX,DWH,Houston,David Wayne Hooks Memorial,GA,None,609,529,15.12%
+710,SW,TX,SKF,San Antonio,Kelly Field,GA,None,531,788,-32.61%
+738,SW,TX,DYS,Abilene,Dyess AFB,GA,None,371,0,0.00%
+782,SW,TX,NFW,Fort Worth,Fort Worth NAS Jrb (Carswell Field),GA,None,191,369,-48.24%
+810,SW,TX,PSX,Palacios,Palacios Municipal,GA,None,130,120,8.33%
+834,SW,TX,SGR,Houston,Sugar Land Regional,GA,None,96,17,464.71%
+856,SW,TX,ADS,Dallas,Addison,GA,None,66,36,83.33%
+885,SW,TX,MRF,Marfa,Marfa Municipal,GA,None,52,20,160.00%
+891,SW,TX,LBX,Angleton,Texas Gulf Coast Regional,GA,None,50,282,-82.27%
+908,SW,TX,FST,Fort Stockton,Fort Stockton-Pecos County,GA,None,40,20,100.00%
+920,SW,TX,ERV,Kerrville,Kerrville Municipal/Louis Schreiner Field,GA,None,36,0,0.00%
+921,SW,TX,OZA,Ozona,Ozona Municipal,GA,None,36,10,260.00%
+974,SW,TX,GKY,Arlington,Arlington Municipal,GA,None,23,12,91.67%
+1024,SW,TX,E41,Big Lake,Reagan County,GA,None,15,20,-25.00%
+1058,SW,TX,MDD,Midland,Midland Airpark,GA,None,12,2,500.00%
+1073,SW,TX,49F,Rankin,Rankin,GA,None,10,20,-50.00%
+1075,SW,TX,BYY,Bay City,Bay City Regional,GA,None,10,20,-50.00%
+1076,SW,TX,E11,Andrews,Andrews County,GA,None,10,10,0.00%
+1119,SW,TX,TKI,McKinney,McKinney National,GA,None,7,0,0.00%
+1135,SW,TX,GLS,Galveston,Scholes International at Galveston,GA,None,6,10,-40.00%
+1143,SW,TX,ODO,Odessa,Odessa-Schlemeyer Field,GA,None,6,21,-71.43%
+1156,SW,TX,CXO,Conroe,Conroe-North Houston Regional,GA,None,5,0,0.00%
+1189,SW,TX,F17,Center,Center Municipal,GA,None,4,0,0.00%
+1192,SW,TX,GTU,Georgetown,Georgetown Municipal,GA,None,4,0,0.00%
+1195,SW,TX,INK,Wink,Winkler County,GA,None,4,0,0.00%
+1210,SW,TX,VHN,Van Horn,Culberson County,GA,None,4,8,-50.00%
+1271,SW,TX,BWD,Brownwood,Brownwood Regional,GA,None,2,0,0.00%
+1280,SW,TX,COT,Cotulla,Cotulla-La Salle County,GA,None,2,0,0.00%
+1281,SW,TX,CWC,Wichita Falls,Kickapoo Downtown,GA,None,2,0,0.00%
+1282,SW,TX,EDC,Austin,Austin Executive,GA,None,2,0,0.00%
+1287,SW,TX,FWS,Fort Worth,Fort Worth Spinks,GA,None,2,2,0.00%
+1321,SW,TX,TPL,Temple,Draughon-Miller Central Texas Regional,GA,None,2,5,-60.00%
+1335,SW,TX,BPG,Big Spring,Big Spring McMahon-Wrinkle,GA,None,1,0,0.00%
+1345,SW,TX,F05,Vernon,Wilbarger County,GA,None,1,0,0.00%
+23,NM,UT,SLC,Salt Lake City,Salt Lake City International,P,L,"11,615,954","11,143,738",4.24%
+228,NM,UT,SGU,St. George,St George Regional,P,N,"103,569","78,680",31.63%
+240,NM,UT,PVU,Provo,Provo Municipal,P,N,"91,581","78,451",16.74%
+349,NM,UT,OGD,Ogden,Ogden-Hinckley,P,N,"20,324","15,609",30.21%
+370,NM,UT,CDC,Cedar City,Cedar City Regional,P,N,"15,588","14,413",8.15%
+403,NM,UT,CNY,Moab,Canyonlands Field,P,N,"10,032","7,837",28.01%
+281,NM,UT,ENV,Wendover,Wendover,GA,None,"49,327","45,492",8.43%
+436,NM,UT,VEL,Vernal,Vernal Regional,CS,None,"6,615","4,007",65.09%
+612,NM,UT,LGU,Logan,Logan-Cache,GA,None,"1,434",704,103.69%
+632,NM,UT,UT25,Monument Valley,Monument Valley,GA,None,"1,217",754,61.41%
+718,NM,UT,KNB,Kanab,Kanab Municipal,GA,None,471,373,26.27%
+771,NM,UT,HIF,Ogden,Hill AFB,GA,None,257,333,-22.82%
+868,NM,UT,BCE,Bryce Canyon,Bryce Canyon,GA,None,60,67,-10.45%
+1066,NM,UT,HCR,Heber City,Heber City Municipal - Russ McDonald Field,GA,None,11,4,175.00%
+1128,NM,UT,BMC,Brigham City,Brigham City Regional,GA,None,6,0,0.00%
+24,EA,VA,DCA,Arlington,Ronald Reagan Washington National,P,L,"11,506,310","11,470,854",0.31%
+26,EA,VA,IAD,Dulles,Washington Dulles International,P,L,"11,024,306","10,596,942",4.03%
+68,EA,VA,RIC,Highland Springs,Richmond International,P,S,"1,822,486","1,777,648",2.52%
+72,EA,VA,ORF,Norfolk,Norfolk International,P,S,"1,694,329","1,602,631",5.72%
+153,EA,VA,CHO,Charlottesville-Albemarle Airport,Charlottesville-Albemarle,P,N,"334,347","295,930",12.98%
+158,EA,VA,ROA,Roanoke,Roanoke-Blacksburg Regional/Woodrum Field,P,N,"309,341","305,212",1.35%
+184,EA,VA,PHF,Newport News,Newport News/Williamsburg International,P,N,"197,994","199,421",-0.72%
+251,EA,VA,LYH,Timberlake,Lynchburg Regional/Preston Glenn Field,P,N,"82,489","75,465",9.31%
+322,EA,VA,NGU,Norfolk,Norfolk NS (Chambers Field),GA,None,"27,120","27,953",-2.98%
+437,EA,VA,SHD,Weyers Cave,Shenandoah Valley Regional,CS,None,"6,605","5,442",21.37%
+626,EA,VA,LFI,Hampton,Langley AFB,GA,None,"1,313","1,808",-27.38%
+679,EA,VA,HEF,Manassas,Manassas Regional/Harry P Davis Field,GA,None,737,554,33.03%
+742,EA,VA,JYO,Leesburg,Leesburg Executive,GA,None,352,101,248.51%
+940,EA,VA,LKU,Louisa,Louisa County/Freeman Field,GA,None,30,0,0.00%
+1039,EA,VA,MKJ,Smyth (County),Mountain Empire,GA,None,14,0,0.00%
+1093,EA,VA,MFV,Melfa,Accomack County,GA,None,9,3,200.00%
+1162,EA,VA,HSP,Hot Springs,Ingalls Field,GA,None,5,0,0.00%
+1170,EA,VA,RMN,Stafford,Stafford Regional,GA,None,5,16,-68.75%
+1190,EA,VA,FCI,Chesterfield,Richmond Executive-Chesterfield County,GA,None,4,1,300.00%
+1197,EA,VA,JGG,Williamsburg,Williamsburg-Jamestown,GA,None,4,5,-20.00%
+1200,EA,VA,OKV,Winchester,Winchester Regional,GA,None,4,6,-33.33%
+1238,EA,VA,OFP,Ashland,Hanover County Municipal,GA,None,3,2,50.00%
+1275,EA,VA,CJR,Culpeper,Culpeper Regional,GA,None,2,9,-77.78%
+1284,EA,VA,EZF,Fredericksburg,Shannon,GA,None,2,0,0.00%
+1288,EA,VA,FYJ,Mattaponi,Middle Peninsula Regional,GA,None,2,2,0.00%
+1333,EA,VA,BCB,Blacksburg,Virginia Tech/Montgomery Executive,GA,None,1,6,-83.33%
+110,SO,VI,STT,Charlotte Amalie,Cyril E King,P,S,"619,729","729,382",-15.03%
+188,SO,VI,STX,Christiansted,Henry E Rohlsen,P,N,"195,634","196,047",-0.21%
+340,SO,VI,VI32,Christiansted St Croix,Christiansted Harbor-SSB,GA,None,"21,757","24,469",-11.08%
+344,SO,VI,VI22,Charlotte Amalie,Charlotte Amalie Harbor,GA,None,"21,282","24,861",-14.40%
+115,NE,VT,BTV,Burlington,Burlington International,P,S,"578,014","593,311",-2.58%
+467,NE,VT,RUT,Rutland,Rutland - Southern Vermont Regional,CS,None,"5,024","5,146",-2.37%
+778,NE,VT,MVL,Morrisville,Morrisville-Stowe State,GA,None,219,265,-17.36%
+1012,NE,VT,4V8,West Dover,Deerfield Valley Regional,GA,None,16,13,23.08%
+1025,NE,VT,EFK,Newport,Northeast Kingdom International,GA,None,15,7,114.29%
+1095,NE,VT,MPV,Barre,Edward F Knapp State,GA,None,9,18,-50.00%
+1184,NE,VT,DDH,Bennington,William H Morse State,GA,None,4,24,-83.33%
+9,NM,WA,SEA,Seattle,Seattle-Tacoma International,P,L,"22,639,124","21,887,110",3.44%
+71,NM,WA,GEG,Spokane,Spokane International,P,S,"1,698,433","1,570,652",8.14%
+140,NM,WA,PSC,Pasco,Tri-Cities,P,N,"376,044","374,301",0.47%
+141,NM,WA,BLI,Bellingham,Bellingham International,P,N,"370,022","415,285",-10.90%
+255,NM,WA,YKM,Yakima,Yakima Air Terminal/McAllister Field,P,N,"71,547","70,993",0.78%
+264,NM,WA,EAT,East Wenatchee,Pangborn Memorial,P,N,"60,335","60,068",0.44%
+265,NM,WA,PUW,Pullman,Pullman/Moscow Regional,P,N,"59,246","61,833",-4.18%
+279,NM,WA,ALW,Walla Walla,Walla Walla Regional,P,N,"49,702","47,439",4.77%
+361,NM,WA,BFI,Seattle,Boeing Field/King County International,P,N,"17,294","17,795",-2.82%
+402,NM,WA,FHR,Friday Harbor,Friday Harbor,P,N,"10,359","12,831",-19.27%
+333,NM,WA,WN22,Seattle,Lake Union,GA,None,"23,169","21,045",10.09%
+431,NM,WA,ORS,Eastsound,Orcas Island,CS,None,"7,223","7,826",-7.71%
+471,NM,WA,TCM,Tacoma,McChord Field (Joint Base Lewis-McChord),GA,None,"4,927","3,818",29.05%
+507,NM,WA,S60,Kenmore,Kenmore Air Harbor Inc,GA,None,"3,688","3,543",4.09%
+630,NM,WA,RNT,Renton,Renton Municipal,GA,None,"1,224",434,182.03%
+669,NM,WA,NUW,Oak Harbor,Whidbey Island NAS /Ault Field/,GA,None,815,765,6.54%
+691,NM,WA,PAE,Everett,Snohomish County (Paine Field),GA,None,623,181,244.20%
+702,NM,WA,CLM,Port Angeles,William R Fairchild International,GA,None,584,596,-2.01%
+792,NM,WA,W39,Roche Harbor,Roche Harbor,GA,None,169,145,16.55%
+799,NM,WA,OLM,Olympia,Olympia Regional,GA,None,156,44,254.55%
+802,NM,WA,W33,Friday Harbor,Friday Harbor,GA,None,146,104,40.38%
+824,NM,WA,SKA,Spokane,Fairchild AFB,GA,None,111,0,0.00%
+855,NM,WA,74S,Anacortes,Anacortes,GA,None,66,70,-5.71%
+862,NM,WA,WA09,Roche Harbor,Roche Harbor,GA,None,65,73,-10.96%
+898,NM,WA,WA28,Auburn,Private H/C Pad,GA,None,44,0,0.00%
+942,NM,WA,WA18,Decatur Island,Decatur /Jones/,GA,None,30,52,-42.31%
+960,NM,WA,0S9,Port Townsend,Jefferson County International,GA,None,25,18,38.89%
+995,NM,WA,S31,Lopez,Lopez Island,GA,None,19,26,-26.92%
+996,NM,WA,TIW,Tacoma,Tacoma Narrows,GA,None,19,20,-5.00%
+1004,NM,WA,SFF,Spokane,Felts Field,GA,None,18,19,-5.26%
+1013,NM,WA,68S,Davenport,Davenport,GA,None,16,0,0.00%
+1014,NM,WA,83Q,Poulsbo,Port of Poulsbo Marina Moorage,GA,None,16,19,-15.79%
+1042,NM,WA,W49,Rosario,Rosario,GA,None,14,39,-64.10%
+1048,NM,WA,38WA,Blakely Island,Blakely Island,GA,None,12,4,200.00%
+1069,NM,WA,MWH,Moses Lake,Grant County International,GA,None,11,112,-90.18%
+1072,NM,WA,VUO,Vancouver,Pearson Field,GA,None,11,3,266.67%
+1096,NM,WA,S18,Forks,Forks,GA,None,9,2,350.00%
+1098,NM,WA,63S,Colville,Colville Municipal,GA,None,8,4,100.00%
+1121,NM,WA,1S9,Chewelah,Sand Canyon,GA,None,6,5,20.00%
+1129,NM,WA,BVS,Burlington,Skagit Regional,GA,None,6,103,-94.17%
+1149,NM,WA,WA83,West Sound,Westsound/Wsx,GA,None,6,18,-66.67%
+1180,NM,WA,AWO,Arlington,Arlington Municipal,GA,None,4,3,33.33%
+1216,NM,WA,4W8,Elma,Elma Municipal,GA,None,3,2,50.00%
+1226,NM,WA,DEW,Deer Park,Deer Park,GA,None,3,0,0.00%
+1240,NM,WA,PLU,Puyallup,Pierce County - Thun Field,GA,None,3,0,0.00%
+1241,NM,WA,PWT,Bremerton,Bremerton National,GA,None,3,2,50.00%
+1242,NM,WA,S43,Snohomish,Harvey Field,GA,None,3,3,0.00%
+1245,NM,WA,SHN,Shelton,Sanderson Field,GA,None,3,1,200.00%
+1255,NM,WA,11S,Sekiu,Sekiu,GA,None,2,1,100.00%
+1260,NM,WA,2S1,Vashon,Vashon Municipal,GA,None,2,0,0.00%
+1262,NM,WA,2WA1,Sequim,Diamond Point Airstrip,GA,None,2,0,0.00%
+1277,NM,WA,CLS,Chehalis,Chehalis-Centralia,GA,None,2,2,0.00%
+1293,NM,WA,HQM,Hoquiam,Bowerman,GA,None,2,0,0.00%
+1305,NM,WA,OMK,Omak,Omak,GA,None,2,1,100.00%
+1331,NM,WA,7WA5,Stuart Island,Stuart Island Airpark,GA,None,1,0,0.00%
+1332,NM,WA,90WA,Eastsound,Waldronaire,GA,None,1,0,0.00%
+1357,NM,WA,S10,Chelan,Lake Chelan,GA,None,1,6,-83.33%
+52,GL,WI,MKE,Milwaukee,General Mitchell International,P,M,"3,414,477","3,327,536",2.61%
+94,GL,WI,MSN,Madison,Dane County Regional-Truax Field,P,S,"943,363","903,155",4.45%
+164,GL,WI,GRB,Green Bay,Green Bay-Austin Straubel International,P,N,"283,823","292,868",-3.09%
+165,GL,WI,ATW,Appleton,Appleton International,P,N,"281,552","270,633",4.03%
+218,GL,WI,CWA,Mosinee,Central Wisconsin,P,N,"116,404","119,222",-2.36%
+238,GL,WI,LSE,La Crosse,La Crosse Regional,P,N,"92,101","94,047",-2.07%
+334,GL,WI,RHI,Rhinelander,Rhinelander-Oneida County,P,N,"23,014","20,414",12.74%
+337,GL,WI,EAU,Eau Claire,Chippewa Valley Regional,P,N,"22,822","21,304",7.13%
+737,GL,WI,JVL,Janesville,Southern Wisconsin Regional,GA,None,373,326,14.42%
+763,GL,WI,C29,Middleton,Middleton Municipal - Morey Field,GA,None,280,265,5.66%
+764,GL,WI,VOK,Camp Douglas,Volk Field,GA,None,278,64,334.38%
+805,GL,WI,UES,Waukesha,Waukesha County,GA,None,135,44,206.82%
+857,GL,WI,ENW,Kenosha,Kenosha Regional,GA,None,66,8,725.00%
+907,GL,WI,EGV,Eagle River,Eagle River Union,GA,None,40,57,-29.82%
+933,GL,WI,SBM,Sheboygan,Sheboygan County Memorial,GA,None,32,147,-78.23%
+1001,GL,WI,DLL,Baraboo,Baraboo-Wisconsin Dells Regional,GA,None,18,4,350.00%
+1055,GL,WI,HYR,Hayward,Sawyer County,GA,None,12,0,0.00%
+1063,GL,WI,3D2,Ephraim,Ephraim-Gibraltar,GA,None,11,0,0.00%
+1148,GL,WI,RZN,Siren,Burnett County,GA,None,6,0,0.00%
+1158,GL,WI,FLD,Fond du Lac,Fond du Lac County,GA,None,5,3,66.67%
+1179,GL,WI,ARV,Woodruff,Lakeland/Noble F Lee Memorial Field,GA,None,4,2,100.00%
+1196,GL,WI,ISW,Wisconsin Rapids,Alexander Field South Wood County,GA,None,4,0,0.00%
+1302,GL,WI,MWC,Milwaukee,Lawrence J Timmerman,GA,None,2,9,-77.78%
+1306,GL,WI,PDC,Prairie du Chien,Prairie Du Chien Municipal,GA,None,2,2,0.00%
+1317,GL,WI,SUW,Superior,Richard I Bong,GA,None,2,0,0.00%
+686,WP,WK,AWK,Wake Island,Wake Island Airfield,GA,None,682,503,35.59%
+182,EA,WV,CRW,Charleston,Yeager,P,N,"202,778","213,412",-4.98%
+226,EA,WV,HTS,Huntington,Tri-State/Milton J Ferguson Field,P,N,"103,724","98,489",5.32%
+327,EA,WV,CKB,Clarksburg,North Central West Virginia,P,N,"25,105","26,025",-3.54%
+452,EA,WV,MGW,Morgantown,Morgantown Municipal-Walter L Bill Hart Field,CS,None,"5,698","7,851",-27.42%
+459,EA,WV,LWB,Lewisburg,Greenbrier Valley,CS,None,"5,495","4,965",10.67%
+488,EA,WV,PKB,Parkersburg,Mid-Ohio Valley Regional,CS,None,"4,155","4,170",-0.36%
+606,EA,WV,BKW,Beckley,Raleigh County Memorial,GA,None,"1,556","2,061",-24.50%
+148,NM,WY,JAC,Jackson,Jackson Hole,P,N,"341,662","342,044",-0.11%
+234,NM,WY,CPR,Casper,Casper/Natrona County International,P,N,"96,843","92,805",4.35%
+295,NM,WY,COD,Cody,Yellowstone Regional,P,N,"39,578","40,340",-1.89%
+314,NM,WY,GCC,Gillette,Gillette-Campbell County,P,N,"29,271","28,383",3.13%
+359,NM,WY,RKS,Rock Springs,Rock Springs-Sweetwater County,P,N,"18,109","16,110",12.41%
+369,NM,WY,LAR,Laramie,Laramie Regional,P,N,"16,072","15,957",0.72%
+399,NM,WY,SHR,Sheridan,Sheridan County,P,N,"10,876","9,211",18.08%
+417,NM,WY,RIW,Riverton,Riverton Regional,CS,None,"8,277","4,228",95.77%
+585,NM,WY,CYS,Cheyenne,Cheyenne Regional/Jerry Olson Field,GA,None,"1,894","3,189",-40.61%
+986,NM,WY,SAA,Saratoga,Shively Field,GA,None,21,31,-32.26%
+1227,NM,WY,ECS,Newcastle,Mondell Field,GA,None,3,0,0.00%
+1272,NM,WY,BYG,Buffalo,Johnson County,GA,None,2,2,0.00%
+,,,30,,,,L Count,,,
+,,,31,,,,M Count,,,
+,,,70,,,,S Count,,,
+,,,255,,,,N Count,,,
+,,,974,,,,None Count,,,
+,,,1360,,,,Total Count,,,
